@@ -173,96 +173,148 @@ export default function QuizClient({
   return (
     <div className="flex flex-col h-screen bg-slate-50 text-slate-800 font-sans relative select-none">
       
-      <div className="h-16 bg-white border-b border-gray-200 flex items-center justify-between px-6 shadow-sm z-10 transition-colors">
-        <div className="font-bold text-lg text-blue-800 uppercase tracking-wide">
-          {mode === 'CHAPTER' ? `Luyện tập: Chương ${chapterId}` : 'THI THỬ TỔNG HỢP'}
+      {/* HEADER */}
+      <div className="h-16 bg-white border-b border-gray-200 flex items-center justify-between px-4 md:px-6 shadow-sm z-20 shrink-0">
+        <div className="font-bold text-sm md:text-lg text-blue-800 uppercase tracking-wide truncate max-w-[60%] md:max-w-none">
+          {mode === 'CHAPTER' ? `Chương ${chapterId}` : 'THI THỬ'}
         </div>
         
-        {mode === 'TEST' && (
-          <div className={`text-xl font-bold font-mono ${timeLeft < 300 ? 'text-red-600 animate-pulse' : 'text-slate-700'}`}>
-            {Math.floor(timeLeft / 60)}:{String(timeLeft % 60).padStart(2, '0')}
-          </div>
-        )}
-        
-        <button 
-           onClick={() => setShowExitModal(true)}
-           className="text-sm font-bold text-gray-500 hover:text-red-500 uppercase transition-colors"
-        >
-          Thoát
-        </button>
+        <div className="flex items-center gap-4 md:gap-6">
+            {mode === 'TEST' && (
+            <div className={`text-lg md:text-xl font-bold font-mono ${timeLeft < 300 ? 'text-red-600 animate-pulse' : 'text-slate-700'}`}>
+                {Math.floor(timeLeft / 60)}:{String(timeLeft % 60).padStart(2, '0')}
+            </div>
+            )}
+            
+            <button 
+                onClick={() => setShowExitModal(true)}
+                className="text-xs md:text-sm font-bold text-gray-500 hover:text-red-500 uppercase transition-colors whitespace-nowrap"
+            >
+            Thoát
+            </button>
+        </div>
       </div>
 
-      <div className="flex-1 flex overflow-hidden">
+      {/* MAIN CONTENT: 2 PANES DESKTOP, 1 COLUMN MOBILE */}
+      <div className="flex-1 flex flex-col md:flex-row overflow-hidden relative">
         
-        <div className="flex-1 flex flex-col p-8 overflow-y-auto w-2/3 border-r border-gray-200 bg-white" onContextMenu={(e) => e.preventDefault()}>
-          <div className="mb-6">
-            <span className="inline-block bg-blue-100 text-blue-800 font-bold px-3 py-1 rounded text-xs uppercase mb-4 tracking-wider">
-              Câu {currentQuestionIndex + 1} / {questions.length}
-            </span>
-            <h2 className="text-xl font-medium leading-relaxed text-gray-800 select-none pointer-events-none">
-              {currentQ.question_content}
-            </h2>
-          </div>
+        {/* LEFT: QUESTION */}
+        <div className="flex-1 flex flex-col overflow-y-auto w-full md:w-2/3 border-b md:border-b-0 md:border-r border-gray-200 bg-white" onContextMenu={(e) => e.preventDefault()}>
+          <div className="p-4 md:p-8 pb-4">
+              <div className="mb-4 md:mb-6">
+                <span className="inline-block bg-blue-100 text-blue-800 font-bold px-3 py-1 rounded text-xs uppercase mb-3 md:mb-4 tracking-wider">
+                  Câu {currentQuestionIndex + 1} / {questions.length}
+                </span>
+                <h2 className="text-lg md:text-xl font-medium leading-relaxed text-gray-800 select-none pointer-events-none">
+                  {currentQ.question_content}
+                </h2>
+              </div>
 
-          <div className="space-y-4 max-w-2xl">
-            {currentQ.answers.map((ans) => {
-              const isSelected = userAnswers[currentQ.id] === ans.key;
-              return (
-                <label 
-                  key={ans.key} 
-                  className={`flex items-start gap-4 p-4 border rounded-xl cursor-pointer transition-all duration-200 group
-                    ${isSelected 
-                      ? 'border-blue-500 bg-blue-50 ring-1 ring-blue-500' 
-                      : 'border-gray-200 hover:border-blue-300 hover:bg-slate-50'
-                    }`}
+              <div className="space-y-3 md:space-y-4 max-w-2xl">
+                {currentQ.answers.map((ans) => {
+                  const isSelected = userAnswers[currentQ.id] === ans.key;
+                  return (
+                    <label 
+                      key={ans.key} 
+                      className={`flex items-start gap-3 md:gap-4 p-3 md:p-4 border rounded-xl cursor-pointer transition-all duration-200 group active:scale-[0.99]
+                        ${isSelected 
+                          ? 'border-blue-500 bg-blue-50 ring-1 ring-blue-500' 
+                          : 'border-gray-200 hover:border-blue-300 hover:bg-slate-50'
+                        }`}
+                    >
+                      <div className="flex h-6 items-center shrink-0">
+                        <input
+                          type="radio"
+                          name={`ratio-${currentQ.id}`}
+                          value={ans.key}
+                          checked={isSelected}
+                          onChange={() => selectAnswer(currentQ.id, ans.key)}
+                          className="peer h-5 w-5 border-gray-300 text-blue-600 focus:ring-blue-600"
+                        />
+                      </div>
+                      <div className="text-gray-700 group-hover:text-gray-900 leading-6 select-none pointer-events-none text-sm md:text-base">
+                        <span className="font-bold mr-2">{ans.key}.</span>
+                        {ans.content.replace(/^[A-D]\.\s*/, '')}
+                      </div>
+                    </label>
+                  );
+                })}
+              </div>
+
+              {/* NAV BUTTONS */}
+              <div className="mt-8 flex justify-between gap-4">
+                <button
+                   onClick={prevQuestion}
+                   disabled={currentQuestionIndex === 0}
+                   className="flex-1 md:flex-none px-4 md:px-6 py-3 md:py-2 border border-gray-300 rounded font-bold text-gray-600 hover:bg-gray-100 disabled:opacity-30 transition-colors uppercase text-sm"
                 >
-                  <div className="flex h-6 items-center">
-                    <input
-                      type="radio"
-                      name={`ratio-${currentQ.id}`}
-                      value={ans.key}
-                      checked={isSelected}
-                      onChange={() => selectAnswer(currentQ.id, ans.key)}
-                      className="peer h-5 w-5 border-gray-300 text-blue-600 focus:ring-blue-600"
-                    />
-                  </div>
-                  <div className="text-gray-700 group-hover:text-gray-900 leading-6 select-none pointer-events-none">
-                    <span className="font-bold mr-2">{ans.key}.</span>
-                    {ans.content.replace(/^[A-D]\.\s*/, '')}
-                  </div>
-                </label>
-              );
-            })}
+                  Quay lại
+                </button>
+
+                {currentQuestionIndex === questions.length - 1 ? (
+                   <button
+                     onClick={() => setShowConfirmModal(true)}
+                     className="flex-1 md:flex-none px-4 md:px-8 py-3 md:py-2 bg-blue-600 text-white font-bold rounded hover:bg-blue-700 shadow-lg hover:shadow-xl transition-all uppercase text-sm"
+                   >
+                     Nộp bài
+                   </button>
+                ) : (
+                   <button
+                     onClick={nextQuestion}
+                     className="flex-1 md:flex-none px-4 md:px-6 py-3 md:py-2 bg-white border border-blue-500 text-blue-600 font-bold rounded hover:bg-blue-50 transition-colors uppercase text-sm text-center"
+                   >
+                     Câu tiếp
+                   </button>
+                )}
+              </div>
           </div>
-
-          <div className="mt-auto pt-8 flex justify-between">
-            <button
-               onClick={prevQuestion}
-               disabled={currentQuestionIndex === 0}
-               className="px-6 py-2 border border-gray-300 rounded font-bold text-gray-600 hover:bg-gray-100 disabled:opacity-30 transition-colors uppercase text-sm"
-            >
-              Quay lại
-            </button>
-
-            {currentQuestionIndex === questions.length - 1 ? (
-               <button
-                 onClick={() => setShowConfirmModal(true)}
-                 className="px-8 py-2 bg-blue-600 text-white font-bold rounded hover:bg-blue-700 shadow-lg hover:shadow-xl transition-all uppercase text-sm"
-               >
-                 Nộp bài
-               </button>
-            ) : (
-               <button
-                 onClick={nextQuestion}
-                 className="px-6 py-2 bg-white border border-blue-500 text-blue-600 font-bold rounded hover:bg-blue-50 transition-colors uppercase text-sm"
-               >
-                 Câu tiếp
-               </button>
-            )}
+          
+          {/* MOBILE LIST (IN FLOW) - Visible only on mobile */}
+          <div className="md:hidden bg-gray-50 border-t border-gray-200 p-4 pb-8">
+               <div className="font-bold text-center text-gray-500 uppercase text-xs tracking-wider mb-4">
+                   Danh sách câu hỏi
+               </div>
+               <div className="grid grid-cols-5 gap-3">
+                   {questions.map((q, idx) => {
+                     const isAnswered = !!userAnswers[q.id];
+                     const isCurrent = idx === currentQuestionIndex;
+                     
+                     return (
+                       <button
+                         key={q.id}
+                         onClick={() => jumpToQuestion(idx)}
+                         className={`
+                            aspect-square flex items-center justify-center rounded text-sm font-bold transition-all duration-200
+                            ${isCurrent 
+                                ? 'ring-2 ring-blue-500 bg-white text-blue-600 z-10 scale-110 shadow-md border border-blue-100' 
+                                : isAnswered
+                                    ? 'bg-slate-600 text-white' 
+                                    : 'bg-gray-200 text-gray-500 hover:bg-gray-300'
+                            }
+                         `}
+                       >
+                         {idx + 1}
+                       </button>
+                     );
+                   })}
+               </div>
+               
+               <div className="mt-6 text-center">
+                   <div className="text-xs text-gray-400 mb-2 uppercase font-bold tracking-wider">
+                       Hoàn thành: <span className="text-blue-600">{Object.keys(userAnswers).length}</span> / {questions.length}
+                   </div>
+                   <div className="w-full bg-gray-200 rounded-full h-1.5 overflow-hidden">
+                      <div 
+                        className="bg-blue-500 h-full transition-all duration-500" 
+                        style={{ width: `${(Object.keys(userAnswers).length / questions.length) * 100}%` }}
+                      ></div>
+                   </div>
+               </div>
           </div>
         </div>
 
-        <div className="w-1/3 min-w-[300px] max-w-sm bg-gray-50 flex flex-col border-l border-gray-200" onContextMenu={(e) => e.preventDefault()}>
+        {/* RIGHT: QUESTION GRID (DESKTOP ONLY) */}
+        <div className="hidden md:flex md:w-1/3 md:min-w-[300px] md:max-w-sm md:flex-col md:border-l border-gray-200 bg-gray-50 h-full">
            <div className="p-4 bg-white border-b border-gray-200 font-bold text-center text-gray-500 uppercase text-xs tracking-wider">
                Danh sách câu hỏi
            </div>
@@ -309,8 +361,8 @@ export default function QuizClient({
       </div>
 
       {showConfirmModal && (
-        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn">
-          <div className="bg-white p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn px-4">
+          <div className="bg-white p-6 md:p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
             <h3 className="text-xl font-bold text-blue-800 mb-4 uppercase">Xác nhận nộp bài</h3>
             <p className="text-gray-600 mb-8">
               Bạn đã hoàn thành {Object.keys(userAnswers).length}/{questions.length} câu hỏi. 
@@ -319,13 +371,13 @@ export default function QuizClient({
             <div className="flex justify-center gap-4">
               <button 
                 onClick={() => setShowConfirmModal(false)}
-                className="px-6 py-2 bg-gray-100 font-bold hover:bg-gray-200 text-gray-700 rounded transition-colors uppercase text-sm"
+                className="flex-1 px-6 py-2 bg-gray-100 font-bold hover:bg-gray-200 text-gray-700 rounded transition-colors uppercase text-sm"
               >
                 Làm tiếp
               </button>
               <button 
                 onClick={() => { setShowConfirmModal(false); submitQuiz(); }}
-                className="px-6 py-2 bg-blue-600 font-bold hover:bg-blue-700 text-white rounded shadow transition-colors uppercase text-sm"
+                className="flex-1 px-6 py-2 bg-blue-600 font-bold hover:bg-blue-700 text-white rounded shadow transition-colors uppercase text-sm"
               >
                 Nộp bài
               </button>
@@ -335,8 +387,8 @@ export default function QuizClient({
       )}
 
       {showExitModal && (
-        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn">
-          <div className="bg-white p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn px-4">
+          <div className="bg-white p-6 md:p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
             <h3 className="text-xl font-bold text-red-600 mb-4 uppercase">Cảnh báo thoát</h3>
             <p className="text-gray-600 mb-8">
               Kết quả bài làm hiện tại sẽ KHÔNG được lưu.
@@ -345,13 +397,13 @@ export default function QuizClient({
             <div className="flex justify-center gap-4">
               <button 
                 onClick={() => setShowExitModal(false)}
-                className="px-6 py-2 bg-gray-100 font-bold hover:bg-gray-200 text-gray-700 rounded transition-colors uppercase text-sm"
+                className="flex-1 px-6 py-2 bg-gray-100 font-bold hover:bg-gray-200 text-gray-700 rounded transition-colors uppercase text-sm"
               >
                 Ở lại
               </button>
               <button 
                 onClick={() => { resetQuiz(); router.push('/'); }}
-                className="px-6 py-2 bg-red-600 font-bold hover:bg-red-700 text-white rounded shadow transition-colors uppercase text-sm"
+                className="flex-1 px-6 py-2 bg-red-600 font-bold hover:bg-red-700 text-white rounded shadow transition-colors uppercase text-sm"
               >
                 Thoát luôn
               </button>
@@ -361,10 +413,10 @@ export default function QuizClient({
       )}
       
       {cheatWarning && (
-          <div className="fixed inset-0 bg-red-900/80 flex items-center justify-center z-[60] animate-pulse">
-              <div className="bg-white p-8 rounded-xl shadow-2xl max-w-lg w-full text-center border-4 border-red-600">
-                  <h3 className="text-2xl font-bold text-red-600 mb-4 uppercase animate-bounce">CẢNH BÁO GIAN LẬN!</h3>
-                  <p className="text-gray-800 font-bold text-lg mb-4">
+          <div className="fixed inset-0 bg-red-900/80 flex items-center justify-center z-[60] animate-pulse px-4">
+              <div className="bg-white p-6 md:p-8 rounded-xl shadow-2xl max-w-lg w-full text-center border-4 border-red-600">
+                  <h3 className="text-xl md:text-2xl font-bold text-red-600 mb-4 uppercase animate-bounce">CẢNH BÁO GIAN LẬN!</h3>
+                  <p className="text-gray-800 font-bold text-base md:text-lg mb-4">
                       Hệ thống phát hiện bạn vừa rời khỏi màn hình làm bài!
                   </p>
                   <p className="text-gray-600 mb-8 italic">
