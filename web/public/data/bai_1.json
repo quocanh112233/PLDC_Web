@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "question_content": "Câu 1: Quan điểm nào nhấn mạnh tính giai cấp của nhà nước.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quan điểm thần quyền.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan điểm gia trưởng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quan điểm của chủ nghĩa Mác Lênin",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quan điểm của thuyết khế ước xã hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_content": "Câu 2: Thuộc tính nào sau đây không phải là một thuộc tính của nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước thiết lập quyền lực công cộng đặc biệt.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước ban hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước quy định và thu các loại thuế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước quản lý dân cư theo huyết thống",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_content": "Câu 3: Theo quan điểm chủ nghĩa Mác Lênin, đây không phải là điều kiện xuất hiện nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sự phát triển của sở hữu tư nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Phân hóa xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đồng thuận xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Mâu thuẫn giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_content": "Câu 4: Nhà nước có chức năng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trấn áp tội phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "Bảo vệ quyền lợi chính đáng của công dân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phòng thủ đất nước, chống ngoại xâm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tất cả các chức năng trên.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_content": "Câu 5: Theo quan điểm của đảng, cơ quan nào sau đây không thuộc bộ máy nhà nước CHXHCN Việt Nam",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mặt trận tổ quốc",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chính phủ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tòa án.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_content": "Câu 6: Theo quy định của hiến pháp, Quốc hội nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan luật pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan lập pháp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan hành pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cơ quan lập quy.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_content": "Câu 7: Quốc hội nước Cộng hòa XHCN Việt Nam không có quyền:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lập pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giám sát tối cao.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Xét xử",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Lập hiến.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_content": "Câu 8: Theo Hiến pháp 2013, Chính phủ nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan hành chính nhà nước cao nhất",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan hành pháp nhà nước cao nhất.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan chấp hành cao nhất của Nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cơ quan giám sát cao nhất.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_content": "Câu 9: Theo Hiến pháp 2013, Chính phủ nước CHXHCN Việt Nam do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Dân bầu ra.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quốc hội thành lập",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chủ tịch nước thành lập.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tòa án thành lập.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_content": "Câu 10: Cơ quan nào không có ở Việt Nam hiện nay?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tòa án nhân dân tối cao.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tòa án hiến pháp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tòa án quân sự trung ương.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tòa án quân sự khu vực.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_content": "Câu 11: Cơ quan nào không có ở Việt Nam hiện nay?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Viện kiểm sát nhân dân cấp tỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Viện kiểm sát quân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Viện công tố",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Viện kiểm sát nhân dân tối cao.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_content": "Câu 12: Theo Hiến pháp 2013, Chủ tịch nước CHXHCN Việt Nam do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Dân bầu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quốc hội bầu",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chính phủ bầu.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mặt trận tổ quốc bầu.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_content": "Câu 13: Theo Hiến pháp 2013, Bộ trưởng nước CHXHCN Việt Nam do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thủ tướng Chính phủ giới thiệu, Quốc hội bầu, Chủ tịch nước ra quyết định bổ nhiệm",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ tịch nước giới thiệu, Quốc hội bầu, Thủ tướng Chính phủ ra quyết định bổ nhiệm.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quốc hội giới thiệu, Chủ tịch nước phê chuẩn, Thủ tướng Chính phủ bổ nhiệm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "Dân bầu.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_content": "Câu 14: Theo Hiến Pháp 2013, thủ tướng Chính phủ nước CHXHCN Việt Nam do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính phủ bầu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Dân bầu.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quốc hội bầu",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ tịch nước bổ nhiệm.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_content": "Câu 15: Cơ quan nào có chức năng xét xử ở nước CHXHCN Việt Nam:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bộ Công an.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Viện Kiểm sát nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tòa án nhân dân",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Bộ Tư pháp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_content": "Câu 16: Theo Hiến pháp 2013,nhiệm kỳ của Quốc hội nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3 năm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4 năm",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5 năm",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6 năm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_content": "Câu 17: Ủy ban thường vụ Quốc hội nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan chuyên môn của Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan lãnh đạo Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan thường trực Quốc hội",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cơ quan chấp hành Quốc hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_content": "Câu 18: Hội đồng nhân dân do ai trực tiếp bầu ra.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhân dân địa phương",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tòa án nhân dân tối cao.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_content": "Câu 19: Theo Hiến pháp 2013, Chính phủ là cơ quan…………..nhà nước cao nhất.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lập pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành chính",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tư pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Kiểm soát.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_content": "Câu 20: Theo học thuyết Mác Lênin, kiểu nhà nước đầu tiên trong lịch sử loài người là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Công xã nguyên thủy.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước phong kiến.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước chủ nô",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước xã hội chủ nghĩa.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_content": "Câu 21: Theo học thuyết Mác Lênin về nhà nước thì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước là hiện tượng vĩnh cửu, bất biến.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước là hiện tượng tự nhiên.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước là hiện tượng xã hội mang tính lịch sử",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước là hiện tượng xuất hiện đồng thời với sự xuất hiện của loài người.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_content": "Câu 22: Theo quan điểm Mácxít, kiểu Nhà nước chủ nô tồn tại sự mâu thuẫn giai cấp giữa:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ nô và nô lệ",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ nô và công nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Địa chủ và nông dân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tư sản và công nhân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_content": "Câu 23: Theo quan điểm Mácxít, kiểu Nhà nước phong kiến tồn tại sự mâu thuẫn giai cấp giữa:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ nô và nô lệ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Địa chủ và công nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Địa chủ và nông dân",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tư sản và công nhân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_content": "Câu 24: Theo quan điểm Mácxít, kiểu Nhà nước tư sản tồn tại sự mâu thuẫn giai cấp giữa:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ nô và nô lệ",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ nô và công nhân",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Địa chủ và nông dân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tư sản và công nhân",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_content": "Câu 25: Theo quan điểm Mácxít, kiểu nhà nước của Việt Nam hiện nay là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Kiểu nhà nước chủ nô",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Kiểu nhà nước phong kiến",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Kiểu nhà nước tư sản",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Kiểu nhà nước xã hội chủ nghĩa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question_content": "Câu 26: Cơ quan nào sau đây không phải là Bộ trực thuộc Chính phủ:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bộ Tư Pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "Bộ Chính trị",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Bộ Ngoại giao.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bộ Công thương.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question_content": "Câu 27: Theo Hiến pháp 2013, cơ quan nào không thuộc cơ quan quyền lực:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Uỷ ban thường vụ Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Hội đồng nhân dân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question_content": "Câu 28: Theo Hiến pháp 2013, cơ quan nào không phải cơ quan hành chính:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính phủ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Viện Kiểm sát nhân dân tối cao",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Bộ Công thương.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Uỷ ban nhân dân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question_content": "Câu 29: Theo Hiến pháp 2013, cơ quan nào không phải cơ quan xét xử:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Toà án nhân dân tối cao.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Uỷ ban nhân dân cấp tỉnh",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Toà án nhân dân cấp tỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án nhân dân cấp huyện.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question_content": "Câu 30: Nhà nước quy định và thu thuế dưới những hình thức bắt buộc nhằm mục đích:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có nguồn tài chính để duy trì hoạt động của bộ máy Nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trả chi phí cho những công việc chung của xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B đều sai.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question_content": "Câu 31: Theo học thuyết Mác Lênin, hình thái kinh tế-xã hội nào chưa có Nhà nước?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thái kinh tế – xã hội Cộng sản chủ nghĩa",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hình thái kinh tế – xã hội Cộng sản nguyên thủy.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Hình thái kinh tế – xã hội Tư bản chủ nghĩa.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Hình thái kinh tế – xã hội Chiếm hữu nô lệ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question_content": "Câu 32: Chức năng đối nội và đối ngoại của nhà nước ……..:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có mối liên hệ mật thiết với nhau",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ có sự tác động một chiều.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không có sự tác động qua lại.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không có mối quan hệ nào.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question_content": "Câu 33: Độ tuổi của công dân đi bỏ phiếu bầu cử đại biểu Quốc hội nước CHXHCN Việt Nam từ:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ 16 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ 18 tuổi trở lên",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Từ 21 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ 23 tuổi trở lên.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question_content": "Câu 34: Theo Hiến pháp 2013, trong bộ máy nhà nước CHXHCN Việt Nam thì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội có quyền ban hành tất cả các văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ là cơ quan quyền lực nhà nước cao nhất.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chính phủ là cơ quan chấp hành và điều hành",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án nhân dân là cơ quan hành chính nhà nước ở địa phương.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question_content": "Câu 35: Theo Hiến pháp 2013, cơ quan thường trực của Quốc hội nước CHXHCN Việt Nam là cơ quan nào?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ủy ban Pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ủy ban thường vụ Quốc hội",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ủy ban Tài chính, Ngân sách.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ủy ban Quốc phòng và An ninh.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question_content": "Câu 36: Theo Hiến pháp 2013, việc thực hiện các quyền………. là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lập pháp, hành chính và tư pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lập quy, hành chính và tư pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hành pháp, lập quy và tư pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Lập pháp, hành pháp và tư pháp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question_content": "Câu 37: Theo Hiến pháp 2013, quốc hội nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan quyền lực nhà nước cao nhất",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan đại biểu cao nhất của nhân dân",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan có quyền lập hiến, lập pháp",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question_content": "Câu 38: Theo Hiến pháp 2013, hội đồng nhân dân trong bộ máy nhà nước Việt Nam do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính phủ bầu ra",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhân dân địa phương bầu ra ra",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quốc Hội bầu ra",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án nhân dân tối cao bầu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question_content": "Câu 39: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào dưới đây là nhà nước liên bang?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Việt Nam",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trung Quốc",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mỹ",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question_content": "Câu 40: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào dưới đây là nhà nước đơn nhất?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đức",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nga",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Singapore",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Mỹ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question_content": "Câu 41: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào dưới đây không thuộc kiểu nhà nước Xã hội chủ nghĩa?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Việt nam",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trung Quốc",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hàn Quốc",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Triều Tiên",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question_content": "Câu 42: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào sau đây có chính thể cộng hòa tổng thống?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mỹ",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trung Quốc",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Việt Nam",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Triều Tiên",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question_content": "Câu 43: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào sau đây không có danh xưng Vua?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhật Bản",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Anh",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Thái Lan",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trung Quốc",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question_content": "Câu 44 : Theo quan điểm chủ nghĩa Mác Lênin, ………… của Nhà nước là những phương diện, loại hoạt động cơ bản của nhà nước nhằm thực hiện những nhiệm vụ đặt ra trước nhà nước",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Dấu hiệu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vai trò.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chức năng",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Thẩm quyền.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question_content": "Câu 45: Theo quan điểm chủ nghĩa Mác Lênin ,……..là tổng thể những dấu hiệu cơ bản của nhà nước thể hiện bản chất giai cấp, vai trò xã hội và những điều kiện phát sinh, tồn tại và phát triển của nhà nước trong một hình thái kinh tế - xã hội nhất định",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Kiểu nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vai trò của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chức năng của nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question_content": "Câu 46: Theo Hiến pháp 2013, Nhà nước CHXHCN Việt Nam là Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân và vì nhân dân. Tất cả quyền lực thuộc về………….",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhân dân",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chính phủ",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án nhân dân tối cao",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question_content": "Câu 47: …………… là những biểu hiện ra bên ngoài về cách thức tổ chức Nhà nước và những biện pháp thực hiện quyền lực Nhà nước.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Vai trò của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đặc trưng của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Kiểu nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question_content": "Câu 48: Theo quan điểm chủ nghĩa Mác Lênin về bản chất của nhà nước thì nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ có tính xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ có tính giai cấp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có tính giai cấp và tính xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Không có tính xã hội",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question_content": "Câu 49: Nhận định nào sau đây không phải đặc trưng của nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Phân chia và quản lý dân cư theo đơn vị hành chính - lãnh thổ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Phân chia và quản lý dân cư theo giới tính và huyết thống.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Có chủ quyền quốc gia.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ban hành pháp luật và quản lý xã hội bằng pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question_content": "Câu 50: Theo quan điểm Mácxít, các điều kiện dẫn tới sự ra đời của Nhà nước là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có ngay khi loài người xuất hiện.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Khi có sự xuất hiện của chế độ tư hữu và sự phân hoá xã hội thành giai cấp.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chỉ có khi pháp luật xuất hiện.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Có ngay khi xã hội phân hóa thành giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question_content": "Câu 51: Theo Hiến pháp 2013, cơ quan quyền lực cao nhất của bộ máy nhà nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính phủ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ tịch nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ủy ban nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quốc hội",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question_content": "Câu 52: Theo Hiến pháp 2013, cơ quan hành chính Nhà nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hội đồng nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Viện Kiểm sát nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Toà án nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bộ Tư pháp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question_content": "Câu 53: Theo Hiến pháp 2013, cơ quan nào sau đây là cơ quan nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Unesco",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mặt trận tổ quốc Việt Nam",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đoàn thanh niên cộng sản Hồ Chí Minh",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tòa án nhân dân cấp huyện",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question_content": "Câu 54: Theo Hiến pháp 2013, cơ quan nào sau đây là cơ quan nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mặt trận tổ quốc Việt Nam",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tổng liên đoàn lao động Việt Nam",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đoàn thanh niên cộng sản Hồ Chí Minh",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question_content": "Câu 55: Chủ quyền quốc gia là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối nội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối ngoại.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền ban hành văn bản pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question_content": "Câu 56: …………… là một hệ thống các cơ quan nhà nước từ trung ương xuống địa phương được tổ chức và thực hiện theo những nguyên tắc chung do pháp luật quy định",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bộ máy nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quốc hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question_content": "Câu 57: Theo học thuyết Mác Lênin, quyền lực trong xã hội cộng sản nguyên thủy là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền lực công cộng đặc biệt",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền lực xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền lực chính trị.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền lực thống trị.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question_content": "Câu 58: “Nhà nước là hiện tượng vĩnh cửu bất biến” là quan điểm của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Học thuyết khế ước xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ nghĩa Mác Lênin.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Thuyết thần quyền",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question_content": "Câu 59: Theo quan điểm chủ nghĩa Mác Lê nin, chính thể quân chủ là hình thức mà quyền lực tối cao của nhà nước tập trung:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trong tay một người đứng đầu nhà nước lên ngôi bằng thừa kế ngôi vị",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Một cơ quan được lập ra bằng con đường bầu cử.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Một người đứng đầu nhà nước được lập ra bằng con đường bầu cử.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Một lực lượng siêu nhiên.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question_content": "Câu 60: Chính thể quân chủ gồm có:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính thể quân chủ tuyệt đối và quân chủ hạn chế",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chính thể quân chủ tuyệt đối và quân chủ quý tộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chính thể quân chủ dân chủ và quân chủ hạn chế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chính thể cộng hoà quý tộc và cộng hoà dân chủ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question_content": "Câu 61: Chính thể cộng hoà gồm có:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính thể quân chủ tuyệt đối và quân chủ hạn chế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính thể cộng hoà quý tộc và cộng hoà dân chủ.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chính thể cộng hoà tuyệt đối và quân chủ quý tộc.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chính thể cộng hoà dân chủ và quân chủ hạn chế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question_content": "Câu 62: ………là sự tổ chức nhà nước theo các đơn vị hành chính – lãnh thổ và tính chất quan hệ giữa các bộ phận cấu thành nhà nước giữa các cơ quan nhà nước ở trung ương và địa phương.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức cấu trúc nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Hình thức chính thể nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hình thức cấu thành nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Hình thức quản lý nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question_content": "Câu 63: ………là hình thức nhà nước có chủ quyền chung, có hệ thống cơ quan nhà nước thống nhất từ trung ương đến địa phương và lãnh thổ quốc gia được chia ra thành các đơn vị hành chính.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức cấu trúc đơn nhất",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Hình thức cấu trúc liên bang.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B đều sai",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question_content": "Câu 64: …….là hình thức có từ hai hay nhiều nước thành viên hợp lại, có hai hệ thống cơ quan nhà nước một cho toàn liên bang và một cho bang, cũng có hai hệ thống pháp luật liên bang và bang.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức cấu trúc đơn nhất.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hình thức cấu trúc liên bang",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Là A",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question_content": "Câu 65: ……là toàn bộ các phương pháp, cách thức, phương tiện, thủ thuật mà các cơ quan nhà nước sử dụng để thực hiện quyền lực nhà nước.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chế độ chính trị",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chế độ kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Chế độ văn hoá – giáo dục.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Là B và C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question_content": "Câu 66: Nhận định nào sau đây là nhận định sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội có chức năng lập pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ có chức năng xét xử",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước có chức năng đối nội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước có chức năng đối ngoại.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question_content": "Câu 67: Theo Hiến pháp 2013,………….nhà nước là thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền hành.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền lực",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền và nghĩa vụ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền thế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question_content": "Câu 68: Pháp luật Việt nam hiện nay quy định độ tuổi của công dân có quyền ứng cử đại biểu Quốc hội nước CHXHCN Việt Nam từ:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 16 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 18 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 20 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. 21 tuổi trở lên",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question_content": "Câu 69: Theo Hiến pháp 2013, bản chất của nhà nước CHXHCN Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của..........., do..........., vì..........",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Công nhân",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhân dân",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Nông dân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tư nhân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question_content": "Câu 70: Theo giáo trình pháp luật Việt Nam, cơ quan nào sau đây là cơ quan nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tổng liên đoàn lao động Việt Nam.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Sở Tư pháp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Mặt trận tổ quốc Việt Nam.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đoàn thanh niên cộng sản Hồ Chí Minh.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question_content": "Câu 71: Theo Hiến pháp 2013, nếu không có kỳ họp bất thường, mỗi năm Quốc hội Việt Nam triệu tập mấy kỳ họp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 01",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 02",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. 03",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không có quy định phải triệu tập mấy kỳ họp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question_content": "Câu 72. Theo Hiến pháp 2013, cơ quan thực hiện chức năng thực hành quyền công tố và kiểm sát các hoạt động tư pháp là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tòa án nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Viện kiểm sát nhân dân",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question_content": "Câu 73: Theo Hiến pháp 2013, nhiệm kỳ của Chủ tịch nước là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3 năm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4 năm",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5 năm",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6 năm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question_content": "Câu 74: Theo Hiến pháp 2013, nhiệm kỳ của Chính phủ là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3 năm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4 năm",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5 năm",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6 năm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question_content": "Câu 75: Theo Hiến pháp 2013, nhiệm kỳ của Chánh án Toà án nhân dân tối cao là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3 năm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4 năm",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5 năm",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6 năm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question_content": "Câu 76: Theo Hiến pháp 2013, nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3 năm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4 năm",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5 năm",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6 năm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question_content": "Câu 77: ………chia thành tỉnh, thành phố trực thuộc trung ương.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thành phố",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Huyện",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quốc gia",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Xã",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question_content": "Câu 78:…… chia thành huyện, thị xã và thành phố thuộc tỉnh",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc gia",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tỉnh",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Thành phố",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Xã",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question_content": "Câu 79:…….chia thành quận, huyện, thị xã và đơn vị hành chính tương đương",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc gia",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thành phố trực thuộc trung ương",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tỉnh",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Huyện",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question_content": "Câu 80: ……chia thành xã, thị trấn",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nước",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thành phố",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Thị trấn",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Huyện",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question_content": "Câu 81: ………..chia thành phường",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tỉnh",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quận",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Huyện",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Xã",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question_content": "Câu 82: Thị xã và thành phố trực thuộc tỉnh chia thành phường và………",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quận",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Huyện",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Xã",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tỉnh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question_content": "Câu 83: Việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính phải lấy ý kiến…….và theo trình tự thủ tục do luật định.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhân dân địa phương",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chính phủ",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question_content": "Câu 84: Theo Hiến pháp 2013,Hội đồng bầu cử quốc gia do……..thành lập.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hội đồng nhân dân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Toà án nhân dân tối cao",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question_content": "Câu 85: Cơ quanKiểm toán Nhà nước do……….thành lập:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quốc hội",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hội đồng nhân dân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Viện kiểm sát nhân dân tối cao",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question_content": "Câu 86: Nhà nước có mấy dấu hiệu đặc trưng?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 4",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 5",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. 6",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. 3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question_content": "Câu 87: Hiện nay, các thành phố trực thuộc trung ương của Việt Nam gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hà Nội, Đà Nẵng, Hồ Chí Minh, Cần Thơ, Hải Phòng",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Hà Nội, Hải Phòng, Hồ Chí Minh, Quảng Ninh",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hải Phòng, Hà Nội, Đà Nẵng, Bà Rịa - Vũng Tầu",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đà Nẵng, Hải Phòng, Cần Thơ, Thừa Thiên - Huế",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question_content": "Câu 88: Thành phố nào sau đây không phải là thành phố trực thuộc trung ương?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hải Phòng",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hà Nội",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quảng Ninh",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cần Thơ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question_content": "Câu 89: Việt Nam hiện nay có mấy thành phố trực thuộc trung ương?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 3",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 4",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 5",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 6",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question_content": "Câu 90: Thủ đô của nước CHXHCN Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hồ Chí Minh",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hà Nội",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Thừa Thiên - Huế",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đà Nẵng",
+        "is_correct": false
+      }
+    ]
+  }
+]

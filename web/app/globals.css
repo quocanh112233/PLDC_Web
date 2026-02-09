@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+body {
+  background-color: #ffffff;
+  color: #1e293b; /* Slate 800 text */
+  font-family: Tahoma, sans-serif;
+}
+
+/* Print Styling */
+@media print {
+  @page {
+    margin: 2cm;
+  }
+  
+  body {
+    background: white;
+    color: black;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  .print-only {
+    display: block !important;
+  }
+  
+  /* Break pages properly */
+  .page-break {
+    page-break-before: always;
+  }
+}
