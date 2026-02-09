@@ -1,0 +1,2264 @@
+[
+  {
+    "id": 155,
+    "question_content": "Câu 155: Theo quan điểm chủ nghĩa Mác Lênin, “………là quy tắc xử sự mang tính bắt buộc chung, do nhà nước ban hành hoặc thừa nhận và được nhà nước đảm bảo thực hiện, nhằm điều chỉnh các quan hệ xã hội theo định hướng nhà nước đặt ra ”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hệ thống pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question_content": "Câu 156: Nội dung nào sau đây là đặc điểm của quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Là những quy tắc xử sự có tính bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vừa mang tính giai cấp vừa mang tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Là những quy tắc xử sự có hiệu lực bắt buộc chung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question_content": "Câu 157: Nội dung nào sau đây là đặc điểm của quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính đa dạng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Do nhà nước ban hành hoặc thừa nhận",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tính giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không do nhà nước ban hành.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question_content": "Câu 158: Nội dung nào sau đây là đặc điểm của quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Được nhà nước đảm bảo giá trị thi hành",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Không được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tồn tại mãi mãi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính đa dạng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question_content": "Câu 159: Nội dung nào sau đây không phải là đặc điểm riêng của quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là quy tắc xử sự có tính bắt buộc",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Do nhà nước ban hành hoặc thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Được nhà nước đảm bảo.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Là quy tắc xử sự có hiệu lực bắt buộc chung.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question_content": "Câu 160: Luật ban hành văn bản quy phạm pháp luật đã xác định quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một loại quy tắc xử sự riêng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Một loại quy tắc xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Một loại quy tắc xử sự chung",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Một loại quy tắc xử sự vừa chung vừa riêng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question_content": "Câu 161: Quy tắc xử sự chung được hiểu là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy tắc này áp dụng cho một số chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy tắc này áp dụng cho tất cả chủ thể",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy tắc này áp dụng cho một chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy tắc này áp dụng cho các tổ chức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question_content": "Câu 162: Hiệu lực bắt buộc chung có nghĩa là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính bắt buộc đối với các tổ chức",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có tính bắt buộc đối với một số chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có tính bắt buộc đối với tất cả các chủ thể",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Có tính bắt buộc đối với các cơ quan nhà nước",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question_content": "Câu 163: Đối với quy phạm pháp luật, hai nội dung nào sau đây luôn đi liền với nhau:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vừa bắt buộc vừa được nhà nước đảm bảo.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vừa chung vừa do nhà nước ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vừa bắt buộc vừa do nhà nước ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vừa bắt buộc vừa chung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question_content": "Câu 164: Điểm khác biệt giữa quy phạm pháp luật so với các quy phạm xã hội khác bởi nó là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy tắc xử sự chung và có hiệu lực bắt buộc chung",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy tắc xử sự riêng và có hiệu lực chung.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy tắc xử sự và có hiệu lực bắt buộc chung.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy tắc xử sự chung.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question_content": "Câu 165: Quy phạm nào sau đây có thể là quy tắc xử sự chung cho nhiều chủ thể nhưng không có hiệu lực bắt buộc:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm tôn giáo.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm đạo đức",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question_content": "Câu 166: Quy phạm nào sau đây có thể là những quy tắc xử sự có tính bắt buộc nhưng không chung cho tất cả các chủ thể:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm đạo đức.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm tôn giáo",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm xã hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question_content": "Câu 167: Quy phạm nào sau đây là những quy tắc xử sự chung và có hiệu lực bắt buộc chung:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm văn hóa.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm kỹ thuật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm đạo đức.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question_content": "Câu 168: Theo quan điểm chủ nghĩa Mác Lênin, đối với quy phạm pháp luật, chủ thể có thẩm quyền ban hành chỉ có thể là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước, cơ quan nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Các cá nhân",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Các tổ chức",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Các pháp nhân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question_content": "Câu 169: Chủ thể nào sau đây đảm bảo thực hiện các quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Các tổ chức chính trị - xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Các pháp nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Các cá nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question_content": "Câu 170: Pháp luật được bảo đảm thực hiện bởi nhà nước, được hiểu là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền và trách nhiệm của nhà nước làm cho pháp luật chắc chắn được thực hiện",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền và trách nhiệm của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền và trách nhiệm của tất cả các chủ thể làm cho pháp luật được thực hiện.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền và trách nhiệm của tất cả các chủ thể.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question_content": "Câu 171: Điểm khác biệt quan trọng nhất giữa quy phạm pháp luật và các quy phạm xã hội khác là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm xã hội được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm xã hội có thể được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật có thể được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question_content": "Câu 172: Đối với những quy phạm xã hội khác, không phải quy phạm pháp luật; biện pháp nào sau đây không thể được áp dụng bởi nhà nước nhằm đảm bảo giá trị thực hiện:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vật chất",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vận động",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cưỡng chế",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chính trị",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question_content": "Câu 173: Theo quan điểm chủ nghĩa Mác Lênin, điểm giống nhau giữa quy phạm pháp luật và các quy phạm xã hội khác là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Luôn xác định được chủ thể đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Được nhà nước đảm bảo thực hiện bằng biện pháp cưỡng chế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không xác định được chủ thể đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Luôn mang tính giai cấp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question_content": "Câu 174: Điểm giống nhau giữa quy phạm pháp luật và quy phạm xã hội là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mang tính quy phạm",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Mang tính cưỡng chế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Mang tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mang tính phi dân chủ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question_content": "Câu 175: Điểm giống nhau giữa quy phạm pháp luật và quy phạm xã hội là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mang tính công bằng cho mọi chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Là tiêu chuẩn để đánh giá hành vi xử sự của con người",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Không là tiêu chuẩn để đánh giá hành vi xử sự của con người.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mang tính ổn định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question_content": "Câu 176: Cơ cấu của quy phạm pháp luật gồm có:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ba bộ phận",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Bốn bộ phận.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question_content": "Câu 177: Cơ cấu của một quy phạm pháp luật gồm có các bộ phận sau:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định, quy định, quy phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định, quy phạm, chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định, chế tài, quy phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định, quy định, chế tài",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question_content": "Câu 178: “…….là bộ phận của quy phạm pháp luật nêu những điều kiện, hoàn cảnh có thể xảy ra và cá nhân hay tổ chức trong những điều kiện đó chịu sự tác động của quy phạm pháp luật”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question_content": "Câu 179: Bộ phận giả định của quy phạm pháp luật chứa đựng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mệnh lệnh của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Điều kiện, hoàn cảnh",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Biện pháp tác động.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Biện pháp cưỡng chế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question_content": "Câu 180: Vai trò của bộ phận giả định của quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mô hình hóa ý chí của nhà nước",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xác định phạm vi tác động của pháp luật.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Xác định biện pháp áp dụng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đảm bảo pháp luật được thực hiện.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question_content": "Câu 181: Cách xác định bộ phận giả định của quy phạm pháp luật là trả lời cho câu hỏi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể sẽ làm gì.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể sẽ gánh chịu hậu quả gì.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể nào, trong điều kiện hoàn cảnh nào.?",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Người nào, tổ chức nào, điều kiện hoàn cảnh nào?",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question_content": "Câu 182: Yêu cầu của bộ phận giả định của quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Phải tương xứng với mức độ vi phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Phải nêu lên một điều kiện, hoàn cảnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phải nêu lên nhiều điều kiện, hoàn cảnh.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Phải rõ ràng, sát với thực tế",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question_content": "Câu 183: “……. là bộ phận của quy phạm pháp luật, chứa đựng mệnh lệnh của nhà nước, nêu cách thức xử sự của chủ thể trong hoàn cảnh đã nêu tại bộ phận giả định”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy định",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả thuyết.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question_content": "Câu 184: Vai trò của bộ phận quy định trong quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xác định phạm vi tác động của pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cụ thể hóa cách thức xử sự của các chủ thể",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Đảm bảo tính nghiêm minh của pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đảm bảo tính quy phạm.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question_content": "Câu 185: Yêu cầu của bộ phận quy định trong quy phạm pháp luật là phải:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không bắt buộc phải chặt chẽ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể không sát với thực tế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chính xác, rõ ràng, chặt chẽ",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Phải nghiêm minh.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question_content": "Câu 186: Bộ phận quy định của quy phạm pháp luật chứa đựng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Số lượng điều kiện, hoàn cảnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Số lượng biện pháp tác động của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Số lượng mệnh lệnh của nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mệnh lệnh của nhà nước",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question_content": "Câu 187: Cách xác định bộ phận quy định của quy phạm pháp luật là trả lời câu hỏi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể sẽ làm gì và như thế nào",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể phải chịu hậu quả gì.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể nào.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Điều kiện hoàn cảnh nào.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question_content": "Câu 188: “……là bộ phận của quy phạm pháp luật, nêu biện pháp mà nhà nước dự kiến áp dụng đối với chủ thể không thực hiện đúng nội dung phần quy định”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chế tài",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy định",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question_content": "Câu 189: Vai trò của bộ phận chế tài trong quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xác định điều kiện, hoàn cảnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xác định chủ thể của pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bảo đảm cho pháp luật được thực hiện nghiêm minh",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Mô hình hóa ý chí của nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question_content": "Câu 190: Yêu cầu của bộ phận chế tài trong quy phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không sát thực tế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không khách quan.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phải nêu được cách xử sự của chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Biện pháp tác động phải tương xứng với mức độ vi phạm",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question_content": "Câu 191: Cách xác định bộ phận chế tài của quy phạm pháp luật là trả lời câu hỏi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể phải gánh chịu hậu quả bất lợi gì",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể được làm gì.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể không được làm gì.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ thể đạt được lợi ích gì.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question_content": "Câu 192: Bộ phận chế tài của của quy phạm pháp luật chứa đựng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cách xử sự của chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Các biện pháp gây hậu quả bất lợi",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Các biện pháp có lợi cho chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Các quyền của chủ thể.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question_content": "Câu 193: Các bộ phận giả định, quy định, chế tài trong quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bắt buộc phải có đầy đủ",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Không bắt buộc phải đầy đủ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có thể thay đổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không thể thay đổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question_content": "Câu 194: Một quy phạm pháp luật …………… đầy đủ ba bộ phận.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có thể có.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể không có.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không nhất thiết phải có.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đương nhiên phải có",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question_content": "Câu 195: Một quy phạm pháp luật………… được trình bày trong một điều luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không phải.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "Bắt buộc phải",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không thể.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Có thể",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question_content": "Câu 196: Trong một điều luật……….. có nhiều quy phạm pháp luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có thể",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Không thể.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bắt buộc phải.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Có thể thay đổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question_content": "Câu 197: Nhận định nào sau đây sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ có quy phạm xã hội mới được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ có quy phạm pháp luật mới được nhà nước đảm bảo giá trị thực hiện bằng biện pháp cưỡng chế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật chỉ do nhà nước đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật mang tính giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question_content": "Câu 198: Nhận định nào sau đây sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm xã hội mang tính giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm xã hội chỉ do nhà nước ban hành",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm xã hội được nhà nước thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật chứa đựng quy tắc xử sự chung.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question_content": "Câu 199: Nhận định nào sau đây đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trật tự các bộ phận giả định, quy định, chế tài trong một quy phạm pháp luật có thể bị thay đổi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trật tự các bộ phận giả định, quy định, chế tài trong một quy phạm pháp luật không thể bị thay đổi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Một quy phạm pháp luật không bắt buộc phải có đầy đủ cả ba bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bộ phận chế tài của pháp luật chứa đựng mệnh lệnh của nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question_content": "Câu 200: “Quy phạm pháp luật hoàn toàn là ý chí chủ quan của nhà nước”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sai, vì quy phạm pháp luật hoàn toàn do ý chí chủ quan của con người đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Đúng, vì quy phạm pháp luật hoàn toàn do ý chí chủ quan của con người đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì có sự kết hợp giữa ý chí chủ quan của con người và tính khách quan của các quan hệ xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Sai, vì căn cứ vào tính khách quan của các quan hệ xã hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question_content": "Câu 201: Nhận định nào sau đây đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm pháp luật do các tổ chức trong xã hội đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật do các cá nhân trong xã hội đặt ra.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật là các quy tắc xử sự trong đó chỉ ra quyền và nghĩa vụ của chủ thể",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chỉ có quy phạm pháp luật mới mang tính giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question_content": "Câu 202: “Mọi quy phạm xã hội được nhà nước cho phép tồn tại đều là quy phạm pháp luật”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sai, vì quy phạm xã hội do nhà nước thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Sai, vì quy phạm pháp luật do nhà nước ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì như quy phạm đạo đức, nhà nước cho phép tồn tại nhưng không là pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Sai, vì quy phạm chính trị nhà nước cho phép tồn tại.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question_content": "Câu 203: Điều 274, Bộ luật Dân sự: “Chủ sở hữu nhà phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề”. Điều luật này có bao nhiêu bộ phận của quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai bộ phận",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ba bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bốn bộ phận.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question_content": "Câu 204: Điều 105, Bộ luật Dân sự 2017: “Tài sản bao gồm vật, tiền, giấy tờ có giá và các quyền tài sản”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy định: “Tài sản”. Giả định: “bao gồm…..quyền tài sản”.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định: “Tài sản”. Chế tài: “bao gồm…… quyền tài sản”.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định: “Tài sản”. Quy định: “bao gồm….. quyền tài sản”",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chế tài: “Tài sản”. Giả định: “bao gồm……. quyền tài sản”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question_content": "Câu 205: Điều 166, Bộ luật Dân sự 2005: “Chủ sở hữu phải chịu rủi ro khi tài sản bị tiêu hủy hoặc bị hư hỏng do sự kiện bất khả kháng, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chế tài và quy định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định và giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chế tài và giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định và quy định",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question_content": "Câu 206: Điều 59, Nghị định số 56/2006/NĐ-CP: “Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với các hành vi sau: a/ Sao chụp trái phép tài liệu thư viện. b/ Không thực hiện việc đăng ký hoạt động thư viện với cơ quan nhà nước có thẩm quyền”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chế tài: “Phạt tiền….đồng”. Giả định: “đối với …… có thẩm quyền”",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chế tài: “đối với……..có thẩm quyền”. Giả định: “Phạt tiền…. đồng”.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy định: “Phạt tiền…. đồng”. Giả định: “đối với…… có thẩm quyền”.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định: “Phạt tiền…. đồng”. Quy định: “đối với….. có thẩm quyền”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question_content": "Câu 207: Điều 151, Bộ luật Hình sự 1999: “Người nào ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ, chồng, con, cháu hoặc người có công nuôi dưỡng mình gây hậu quả nghiêm trọng hoặc đã bị xử phạt hành chính về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, cải tạo không giam giữ đến ba năm hoặc phạt tù từ ba tháng đến ba năm”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định: “Người nào…….. vi phạm”. Chế tài: “bị phạt….ba năm”",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chế tài: “bị phạt…. ba năm”. Quy định: “người nào…..vi phạm”.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định: “Người nào”. Chế tài: “ngược đãi…. ba năm”.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định: “Người nào…..vi phạm”. Quy định: “bị phạt….. ba năm”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question_content": "Câu 208: Điều 26, Bộ luật Dân sự 2005: “Cá nhân có quyền có họ, tên. Họ, tên của một người được xác định theo họ, tên khai sinh của người đó”. Điều luật này có cơ cấu gồm :",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định: “Cá nhân”, “Họ….người”. Quy định: “có quyền có họ, tên”.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giả định: “Cá nhân”, “Họ….người”. Quy định: “có….tên”, “được….đó”",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy định: “có….tên”, “được….đó”. Chế tài: “Cá nhân”, “Họ….người”.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định: “Cá nhân”, “Họ….người”. Chế tài: ““có….tên”, “được….đó”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question_content": "Câu 209: Điều 31, Luật Doanh nghiệp 2005: “Tên doanh nghiệp phải viết được bằng tiếng Việt, có thể kèm theo chữ số và ký hiệu, phải phát âm được và có ít nhất hai thành tố”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy định và giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định và chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định và quy định",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question_content": "Câu 210:Điều 21, Hiến pháp 2013: “Mọi người có quyền bí mật thư tín, điện thoại, điện tín và các hình thức trao đổi thông tin riêng tư khác”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định và quy định",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy định và chế tài.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question_content": "Câu 211: Điều 44, Hiến pháp 2013: “Công dân có nghĩa vụ trung thành với Tổ quốc”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai bộ phận",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ba bộ phận.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bốn bộ phận.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question_content": "Câu 212: Điều 69, Hiến pháp 2013: “Quốc hội là cơ quan đại biểu cao nhất của nhân dân, cơ quan quyền lực nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định: “Quốc hội”. Quy định: “là cơ quan………. Việt Nam”",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Giả định: “Quốc hội…….của Nhân dân”. Quy định: “cơ quan …..Việt Nam”.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định: “Quốc hội…..cao nhất”. Quy định: “của nước….Việt Nam”.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy định: “Quốc hội”. Giả định: “là cơ quan…..Việt Nam”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question_content": "Câu 213: Điều 647, Bộ luật Dân sự 2005: “Người đã thành niên có quyền lập di chúc, trừ trường hợp người đó bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức và làm chủ được hành vi của mình”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chế tài và giả định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giả định và quy định",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy định và chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question_content": "Câu 214: Điều 657, Bộ luật Dân sự 2005: “Người lập di chúc có thể yêu cầu công chứng hoặc chứng thực bản di chúc”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định: “Người lập di chúc”. Chế tài: “có thể……di chúc”.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giả định: “Người lập……yêu cầu”. Quy định: “công chứng…..di chúc”.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giả định: “Người lập di chúc”. Quy định: “có thể……di chúc”",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy định: “Người lập di chúc”. Chế tài: “có thể……di chúc”.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question_content": "Câu 215: Điều 119, Bộ luật Hình sự 1999: “Người nào mua bán người thì bị phạt tù từ hai năm đến bảy năm”. Điều luật này có cơ cấu gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giả định và quy định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy định và chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Giả định và chế tài",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question_content": "Câu 216: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Quốc hội là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hiến pháp, Luật, Nghị quyết",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp lệnh, Nghị quyết.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Lệnh, Quyết định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nghị định, Lệnh.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question_content": "Câu 217: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Ủy ban Thường vụ quốc hội là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp lệnh, Lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp lệnh, Nghị quyết",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp lệnh, Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp lệnh, Thông tư.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question_content": "Câu 218: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Chủ tịch nước có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lệnh, Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lệnh, Pháp lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Lệnh, Quyết định",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Lệnh, Thông tư.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question_content": "Câu 219: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Chính phủ là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghị định, Lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nghị quyết.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyết định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nghị định",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question_content": "Câu 220: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Thủ tướng chính phủ có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyết định",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nghị quyết.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Thông tư.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question_content": "Câu 221: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Hội đồng nhân dân là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ thị.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nghị quyết",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question_content": "Câu 222: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, Ủy ban nhân dân cấp tỉnh là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyết định, Chỉ thị",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ thị, Thông tư.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyết định, Thông tư.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyết định, Nghị quyết.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question_content": "Câu 223: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, nhận định nào sau đây đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thủ tướng chính phủ có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Quyết định",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chính phủ có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Quyết định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ tịch nước có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chánh án Tòa án nhân dân tối cao có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Quyết định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question_content": "Câu 224: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, nhận định nào sau đây đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ủy ban nhân dân là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Nghị quyết.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ủy ban nhân dân là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Quyết định và Chỉ thị",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ủy ban nhân dân là cơ quan không có thẩm quyền ban hành văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Hội đồng nhân dân là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Chỉ thị.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question_content": "Câu 225: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, nhận định nào sau đây sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chính phủ là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Nghị định.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hội đồng nhân dân là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Nghị quyết.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hội đồng nhân dân là cơ quan không có thẩm quyền ban hành văn bản quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ tịch nước có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Lệnh và Quyết định",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question_content": "Câu 226: Theo Luật ban hành văn bản quy phạm pháp luật Việt Nam, nhận định nào sau đây sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ tịch nước có thẩm quyền ban hành văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ủy ban thường vụ quốc hội là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quốc hội là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quốc hội là cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật dưới hình thức Nghị quyết liên tịch",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question_content": "Câu 227: “.................. là văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục, trình tự luật định, trong đó có các quy tắc xử sự chung, được Nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội theo định hướng xã hội chủ nghĩa”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản áp dụng quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm xã hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question_content": "Câu 228: “……………là văn bản do cơ quan nhà nước có thẩm quyền ban hành trên cơ sở văn bản quy phạm pháp luật, áp dụng vào từng trường hợp cụ thể nhằm xác định quyền và nghĩa vụ pháp lý cụ thể, hoặc xác định biện pháp trách nhiệm pháp lý đối với chủ thể”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản áp dụng quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy Quy phạm xã hội",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question_content": "Câu 229: Văn bản quy phạm pháp luật là văn bản do .................có thẩm quyền ban hành theo thủ tục, trình tự luật định, trong đó có các............., được Nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội theo định hướng xã hội chủ nghĩa.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan nhà nước – quy tắc xử sự riêng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cá nhân – quy tắc xử sự chung.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan nhà nước – quy tắc xử sự chung",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tổ chức – quy tắc xử sự chung.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question_content": "Câu 230: Văn bản áp dụng quy phạm pháp luật là văn bản do cơ quan nhà nước có thẩm quyền ban hành trên cơ sở………………., áp dụng vào từng trường hợp cụ thể nhằm xác định quyền và nghĩa vụ pháp lý cụ thể, hoặc xác định biện pháp ………………….. đối với chủ thể.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật – pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản áp dụng quy phạm pháp luật – pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Văn bản áp dụng quy phạm pháp luật – pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Văn bản quy phạm pháp luật – pháp lý",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question_content": "Câu 231: Văn bản áp dụng quy phạm pháp luật do:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp nhân ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cá nhân ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tổ chức ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cơ quan nhà nước ban hành",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question_content": "Câu 232: Văn bản quy phạm pháp luật chứa đựng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy tắc xử sự chung",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy tắc xử sự riêng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy tắc xử sự vừa chung vừa riêng",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy tắc xử sự cụ thể.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question_content": "Câu 233: Văn bản quy phạm pháp luật được áp dụng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một lần.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhiều lần",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Hai lần.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ba lần.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question_content": "Câu 234: Hiệu lực của văn bản quy phạm pháp luật …………vào việc thực hiện.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Phụ thuộc.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vừa phụ thuộc vừa không phụ thuộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không phụ thuộc",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Có thể phụ thuộc.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question_content": "Câu 235: Văn bản áp dụng quy phạm pháp luật được áp dụng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhiều lần.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai lần.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ba lần.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Một lần",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question_content": "Câu 236: Văn bản áp dụng quy phạm pháp luật được ban hành trên cơ sở:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản áp dụng quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm tập quán.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question_content": "Câu 237: Văn bản áp dụng quy phạm pháp luật xác định …………….đối với chủ thể.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Biện pháp trách nhiệm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "Biện pháp trách nhiệm pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Biện pháp kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Biện pháp cưỡng chế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question_content": "Câu 238: Văn bản áp dụng quy phạm pháp luật xác định…………….cụ thể.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Năng lực chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền và nghĩa vụ pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền và nghĩa vụ pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question_content": "Câu 239: Văn bản áp dụng quy phạm pháp luật áp dụng vào…………..cụ thể.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ba trường hợp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai trường hợp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhiều trường hợp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từng trường hợp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question_content": "Câu 240: Văn bản quy phạm pháp luật và văn bản áp dụng quy phạm pháp luật đều được:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước đảm bảo giá trị thi hành",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tổ chức đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cá nhân đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp nhân đảm bảo giá trị thi hành.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question_content": "Câu 241: Nhận định nào sau đây là đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản quy phạm pháp luật do cơ quan nhà nước có thẩm quyền ban hành",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Văn bản áp dụng quy phạm pháp luật không được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Văn bản quy phạm pháp luật không được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": false
+      }
+    ]
+  }
+]

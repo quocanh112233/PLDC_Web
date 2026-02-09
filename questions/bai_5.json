@@ -1,0 +1,3122 @@
+[
+  {
+    "id": 302,
+    "question_content": "Câu 302: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Áp dụng pháp luật là việc thực hiện pháp luật của tổ chức.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Áp dụng pháp luật là việc thực hiện pháp luật của cá nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Áp dụng pháp luật là việc thực hiện pháp luật của cơ quan nhà nước và cá nhân được trao quyền",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Áp dụng pháp luật là việc thực hiện pháp luật của công dân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "question_content": "Câu 303: Chủ thể có thẩm quyền áp dụng pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tổ chức xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan nhà nước, cá nhân có thẩm quyền",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều đúng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "question_content": "Câu 304: Thi hành pháp luật là hình thức thực hiện pháp luật, trong đó:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể thực hiện cách xử sự mà pháp luật cho phép",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể kiềm chế mình không thực hiện hành vi pháp luật cấm.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể bằng hành vi hành động tích cực thực hiện điều pháp luật yêu cầu.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "question_content": "Câu 305 : Tuân thủ pháp luật là hình thức thực hiện pháp luật, trong đó:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể thực hiện cách xử sự mà pháp luật cho phép.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể kiềm chế mình không thực hiện điều pháp luật cấm",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể bằng hành vi hành động tích cực thực hiện điều pháp luật yêu cầu.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "question_content": "Câu 306: Hình thức thực hiện pháp luật nào cần sự tham gia của Nhà nước:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tuân thủ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thi hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sử dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Áp dụng pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "question_content": "Câu 307: Sử dụng pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không được làm những điều mà pháp luật cấm bằng hành vi thụ động.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có quyền thực hiện hay không thực hiện những điều mà pháp luật cho phép.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tích cực thực hiện những điều pháp luật yêu cầu",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "question_content": "Câu 308: Thực hiện pháp luật gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tuân thủ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thi hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sử dụng pháp luật và áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "question_content": "Câu 309: Đây là hình thức tuân thủ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không buôn bán ma túy",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Bầu cử.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B và",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "question_content": "Câu 310: Đây là hình thức thi hành pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trộm cắp tài sản.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thực hiện nghĩa vụ quân sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Kết hôn.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "question_content": "Câu 311: Đây là hình thức sử dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. In ấn tài liệu trái phép.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khiếu nại",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Không buôn lậu.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "question_content": "Câu 312: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tổ chức xã hội không có quyền thực hiện hình thức áp dụng pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tổ chức xã hội có quyền thực hiện hình thức áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tổ chức xã hội có quyền thực hiện hình thức áp dụng pháp luật khi được Nhà nước trao quyền.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "question_content": "Câu 313: Hình thức áp dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là hoạt động mang tính cá biệt-cụ thể và không thể hiện quyền lực nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Là hoạt động không mang tính cá biệt-cụ thể nhưng thể hiện quyền lực nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Là hoạt động mang tính cá biệt-cụ thể và thể hiện quyền lực nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "question_content": "Câu 314: Đây là hình thức áp dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đóng thuế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xử phạt vi phạm hành chính trong lĩnh vực giao thông",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Buôn bán ma túy.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "question_content": "Câu 315: Đây là hình thức tuân thủ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không cố ý gây thương tích",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Ly hôn.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Buôn lậu.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A , B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "question_content": "Câu 316: Đây là hình thức thi hành pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đóng thuế",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cướp giật tài sản.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khiếu nại.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "question_content": "Câu 317: Đây là hình thức áp dụng pháp luật",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tòa án giải quyết tranh chấp dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tố cáo.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không tham ô.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "question_content": "Câu 318: Đây là hình thức áp dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giải quyết tranh chấp thương mại",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Vận chuyển ma túy.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Buôn lậu.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "question_content": "Câu 319: Hình thức thực hiện pháp luật nào có chủ thể là cá nhân hoặc tổ chức bất kỳ:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thực hiện pháp luật- Sử dụng pháp luật- Tuân thủ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tuân thủ pháp luật- Sử dụng pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "question_content": "Câu 320: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan, tổ chức bất kỳ có thể thực hiện hình thức áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ cơ quan, cá nhân được Nhà nước trao quyền mới có thể thực hiện hình thức áp dụng pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cơ quan bất kỳ có thể thực hiện hình thức áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "question_content": "Câu 321: Đây là hình thức áp dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hai người đi đăng ký kết hôn.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xác nhận di chúc của Ủy ban nhân dân",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Đóng thuế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đăng ký kết hôn và xác nhận di chúc.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "question_content": "Câu 322: Hình thức thực hiện pháp luật này chỉ có dạng hành vi là không hành động:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tuân thủ pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Thi hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sử dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Áp dụng pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "question_content": "Câu 323: Quy phạm pháp luật tương ứng với hình thức tuân thủ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm pháp luật cho phép.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật cấm",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "question_content": "Câu 324: Quy phạm pháp luật tương ứng với hình thức sử dụng pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm cho phép",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm cấm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "question_content": "Câu 325: Hình thức thực hiện pháp luật nào có tính thụ động:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tuân thủ pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Thi hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sử dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Áp dụng pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "question_content": "Câu 326 : Quy phạm pháp luật tương ứng với hình thức áp dụng pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm pháp luật cấm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật cho phép.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tất cả các loại quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "question_content": "Câu 327: Chủ thể có quyền lựa chọn xử sự trong hình thức thực hiện pháp luật này:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tuân thủ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thi hành pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sử dụng pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Áp dụng pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "question_content": "Câu 328: Đây là hình thức sử dụng pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mua bán tài sản",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Xúi giục người khác tự sát",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khủng bố",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "question_content": "Câu 329: Hành vi vi phạm quy chế của tổ chức xã hội:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không bao giờ vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều đúng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "question_content": "Câu 330: Biểu hiện quan trọng nhất thuộc mặt chủ quan của vi phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Động cơ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mục đích.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Lỗi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "question_content": "Câu 331: Biểu hiện quan trọng nhất thuộc mặt khách quan của vi phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thiệt hại cho xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi trái pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Mối liên hệ nhân quả giữa hành vi-thiệt hại cho xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Các yếu tố khác: công cụ, thời gian, địa điểm.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "question_content": "Câu 332: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể không nhận thức được hậu quả do hành vi của mình gây ra thì không có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể phải nhận thức được hậu quả do hành vi của mình gây ra thì mới có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể không mong muốn hậu quả xảy ra thì không có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "question_content": "Câu 333:…............... là lý do thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mục đích.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Động cơ",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Mục tiêu.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "question_content": "Câu 334: Nhận định nào đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mọi hành vi trái pháp luật là vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mọi hành vi vi phạm pháp luật có thể có lỗi, có thể không có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hành vi trái pháp luật có thể là vi phạm pháp luật, có thể không phải vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "question_content": "Câu 335: Dấu hiệu vi phạm pháp luật gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hành vi xác định của con người.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi trái pháp luật, có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể thực hiện hành vi có năng lực trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "question_content": "Câu 336: Đây không phải biểu hiệu thuộc mặt chủ quan của vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mục đích.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hậu quả của hành vi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Động cơ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "question_content": "Câu 337: Đây không phải biểu hiệu thuộc mặt khách quan của vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Suy nghĩ trái pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi trái pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hậu quả của hành vi",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mối liên hệ hành vi-hậu quả",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "question_content": "Câu 338: Xác định lỗi: Do mâu thuẫn A mua acid tạt B khiến B thương tật vĩnh viễn 30%",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý trực tiếp",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do cẩu thả.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do quá tự tin.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "question_content": "Câu 339: Xác định mục đích của vi phạm pháp luật: Không có tiền tiêu xài nên A sử dụng xe máy đi cướp giật tài sản của B",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tiền để tiêu xài",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cướp tài sản của",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A,B đều sai.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "question_content": "Câu 340: Xác định động cơ của vi phạm pháp luật: A là con nợ giết B là chủ nợ để trốn tránh nghĩa vụ trả nợ.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tước đoạt tính mạng của",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trốn tránh nghĩa vụ trả nợ.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều đúng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "question_content": "Câu 341: Xác định động cơ của vi phạm pháp luật: Vì ghen tuông trong quan hệ tình cảm, A dùng súng AK bắn chết",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Giải quyết mâu thuẫn tình cảm",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. ",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cảnh cáo",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "question_content": "Câu 342: Xác định lỗi: Đứa trẻ 5 tuổi nghịch lửa làm cháy nhà hàng xóm",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không có lỗi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "question_content": "Câu 343: Xác định lỗi: B là người tâm thần, thích ăn khoai nướng. Một hôm B đốt nhà hàng xóm để nướng khoai.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều sai",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "question_content": "Câu 344: Xác định loại vi phạm pháp luật: Nhân viên công ty TNHH Hoa Cà đi làm trễ 2h so với giờ quy định.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm kỷ luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "question_content": "Câu 345: Cấu thành của vi phạm pháp luật gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mặt khách quan và mặt chủ quan.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể và Khách thể.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Gỉa định, quy định, chế tài.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "question_content": "Câu 346: Xác định khách thể của vi phạm pháp luật: A lấy trộm chiếc xe máy của B",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chiếc xe máy.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền bất khả xâm phạm về tài sản của B",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền sử dụng xe máy của",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "question_content": "Câu 347: Xác định loại vi phạm pháp luật: A điều khiển xe máy vượt đèn đỏ.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm hành chính",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "question_content": "Câu 348: Xác định lỗi: Trong lúc chờ bơm xăng, A hút thuốc gây hỏa hoạn",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do cẩu thả",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do quá tự tin.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "question_content": "Câu 349: Khách thể của vi phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lợi ích vật chất mà hai bên hướng tới.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lợi ích tinh thần mà hai bên hướng tới.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quan hệ xã hội bị hành vi vi phạm xâm hại",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "question_content": "Câu 350: Trường hợp nào sau đây là vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Người tâm thần giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giết người vì phòng vệ chính đáng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giết người do mâu thuẫn cá nhân",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "question_content": "Câu 351: Vi phạm pháp luật là hành vi trái pháp luật, có lỗi, do................. , xâm hại đến các.............. được bảo vệ",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể có năng lực pháp luật thực hiện – quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể có năng lực hành vi thực hiện – quan hệ xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể 18 tuổi thực hiện- quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ thể có năng lực trách nhiệm pháp lý thực hiện- quan hệ xã hội",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "question_content": "Câu 352: Vi phạm nào sau đây có dạng hành vi không hành động:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xúi giục người khác ăn trộm.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không đóng thuế",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đe dọa giết người.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "question_content": "Câu 353: Hành vi vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không bao giờ vi phạm đạo đức.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể vi phạm đạo đức",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Không bao giờ vi phạm tôn giáo.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "question_content": "Câu 354: Vi phạm pháp luật được phân loại thành:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tội phạm và các vi phạm pháp luật khác.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tội phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm hành chính, vi phạm hình sự, vi phạm dân sự, vi phạm kỷ luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm tài chính, vi phạm đất đai, vi phạm môi trường.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "question_content": "Câu 355: Một hành vi trái pháp luật thì bao giờ cũng xâm hại tới..................",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quan hệ ngoại giao",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan hệ gia đình",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Mọi quan hệ trong đời sống xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quan hệ xã hội được pháp luật bảo vệ",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "question_content": "Câu 356: Hành vi nào sau đây là vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm điều lệ Đảng CSVN.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm điều lệ Đoàn TNCS HCM.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm tín điều tôn giáo.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm nội quy, quy chế trường Đại học",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "question_content": "Câu 357: Vi phạm pháp luật gây ra thiệt hại thể hiện dưới dạng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vật chất",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tinh thần",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tinh thần hoặc vật chất",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A , B và C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "question_content": "Câu 358 : Các hình thức lỗi gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lỗi chủ quan.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lỗi cố ý trực tiếp và lỗi cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Lỗi vô ý do cẩu thả và lỗi vô ý do quá tự tin.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả B và C đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "question_content": "Câu 359:.................. là trạng thái tâm lý bên trong của chủ thể vi phạm pháp luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mặt khách quan.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Mặt chủ quan",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Khách quan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "question_content": "Câu 360: Do mâu thuẫn cá nhân, A mua thuốc trừ sâu về dự định thả vào lu nước nhà B, nhưng do sợ hãi nên chưa thực hiện. A vẫn giữ thuốc trừ sâu trong nhà mình.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hành vi của A là vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi của A không phải vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Hành vi của A có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "question_content": "Câu 361: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm pháp luật là hành vi do cá nhân thực hiện.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm pháp luật có thể có lỗi hoặc không có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm pháp luật là hành vi do chủ thể có năng lực trách nhiệm pháp lý thực hiện",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "question_content": "Câu 362: Theo Bộ luật Hình sự 2016, chủ thể thực hiện vi phạm hình sự có thể là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tổ chức là pháp nhân thương mại",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tổ chức không phải pháp nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Người tâm thần.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cá nhân chưa có năng lực trách nhiệm pháp lý.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "question_content": "Câu 363: Hành vi nào sau đây là vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ý định trộm cắp tài sản của người khác.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi gây thương tích cho người khác của người tâm thần.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hành vi trốn thuế",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "question_content": "Câu 364: Hành vi tổ chức đánh bạc của công chức nhà nước bị công an bắt quả tang là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "question_content": "Câu 365: Xác định loại vi phạm pháp luật: Ông A vận chuyển gia cầm mắc bệnh, bị cơ quan có thẩm quyền phát hiện và buộc tiêu hủy hết số gia cầm mắc bệnh.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm hành chính",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm kỷ luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm dân sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "question_content": "Câu 366: Trường hợp nào sau đây là vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một người 14 tuổi điều khiển xe máy không bằng lái",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Người tâm thần giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Một người thuê mướn thanh niên16 tuổi lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "question_content": "Câu 367: Vi phạm pháp luật không thể là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Suy nghĩ xấu xa",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Một lời nói.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hành vi không hành động.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "question_content": "Câu 368: Xác định lỗi: Một người thợ sửa xe cố tình chỉnh sửa phanh xe nguy hiểm để khách hàng sớm quay lại tiệm sửa xe. Do phanh không an toàn nên xe lao xuống vực gây chết người.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do quá tự tin.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do cẩu thả.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "question_content": "Câu 369: Xác định lỗi: Một người dùng súng săn vào rừng săn thú, trong lúc sơ suất bắn nhầm vào người kiểm lâm.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do quá tự tin",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do cẩu thả.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "question_content": "Câu 370: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm pháp luật phải là hành vi gây thiệt hại cho xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi chưa gây thiệt hại cho xã hội có thể là vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm pháp luật phải là hành vi cố ý gây thiệt hại cho xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A,B,C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "question_content": "Câu 371: Những trường hợp loại trừ vi phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể là người mất năng lực hành vi",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Phòng vệ chính đáng",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tình huống cấp thiết- Sự kiện bất ngờ",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "question_content": "Câu 372: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm pháp luật có thể có lỗi hoặc không có lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lỗi là biểu hiện bắt buộc của vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Lỗi là biểu hiện bắt buộc của mặt khách quan.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "question_content": "Câu 373: Hành vi vi phạm quy phạm tập quán:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không bao giờ là vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể là vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều đúng",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "question_content": "Câu 374: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Động cơ luôn luôn là biểu hiện bắt buộc phải xác định trong mặt khách quan của vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mục đích có thể là biểu hiện bắt buộc phải xác định đối với vi phạm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Động cơ và mục đích không phải biểu hiện bắt buộc phải xác định trong mặt khách quan",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "question_content": "Câu 375: Chủ thể của vi phạm pháp luật có thể là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cá nhân",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tổ chức",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cá nhân hoặc tổ chức",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "question_content": "Câu 376: Ý nghĩa của việc xác định khách thể của vi phạm pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là căn cứ để xác định lỗi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thể hiện mối liên hệ giữa hành vi-thiệt hại cho xã hội của vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Xác định mức độ nguy hiểm cho xã hội của vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "question_content": "Câu 377: Xác định khách thể của vi phạm pháp luật: Chị A 17 tuổi do đua đòi ăn chơi nên lấy trộm một máy laptop của hàng xóm là anh B",
+    "answers": [
+      {
+        "key": "A",
+        "content": "Anh B",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chiếc Laptop",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền bất khả xâm hại về tài sản của anh B",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền sử dụng tài sản của anh B.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "question_content": "Câu 378: Yếu tố nào thể hiện mối liên hệ giữa nguyên nhân và thiệt hại cho xã hội của vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sự thiệt hại cho xã hội là nguyên nhân tất yếu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thiệt hại cho xã hội phù hợp mục đích của vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hành vi trái pháp luật là nguyên nhân trực tiếp",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Hành vi xảy ra trước thiệt hại.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "question_content": "Câu 379: Vi phạm pháp luật nào gây hậu quả lớn nhất cho xã hội:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vi phạm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vi phạm hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vi phạm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "question_content": "Câu 380: Đây là vi phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Người tâm thần giết người.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giết người trong tình huống cấp thiết.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Người say rượu giết người",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "question_content": "Câu 381:Xác định lỗi: Nghĩ B “nhìn đểu” mình, A dùng súng bắn B liên tiếp 3 phát làm B chết.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lỗi cố ý trực tiếp",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do quá tự tin",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do cẩu thả",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "question_content": "Câu 382: Xác định lỗi: A là chủ đò, A nhận vận chuyển khách vượt quá số lượng cho phép dẫn tới chìm đò, hậu quả 12 người thiệt mạng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Lỗi cố ý trực tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cố ý gián tiếp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vô ý do quá tự tin",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Vô ý do cẩu thả.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "question_content": "Câu 383: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể của vi phạm dân sự chỉ có thể là tổ chức.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể của vi phạm hành chính chỉ có thể là tổ chức.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể của vi phạm dân sự có thể là cá nhân hoặc tổ chức",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "question_content": "Câu 384: Vi phạm pháp luật là hành vi thể hiện dưới dạng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hành động hoặc không hành động",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tư tưởng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Suy nghĩ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "question_content": "Câu 385: Cơ sở truy cứu trách nhiệm pháp lý là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhân chứng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vật chứng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "question_content": "Câu 386: Đây là biện pháp trách nhiệm pháp lý nghiêm khắc nhất:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm pháp lý dân sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "question_content": "Câu 387: Theo Bộ luật Hình sự 2016, Công ty hóa chất A chôn các thùng thuốc trừ sâu xuống đất làm ô nhiễm môi trường, thiệt hại nặng nề khu dân cư. Trách nhiệm pháp lý áp dụng cho công ty là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý dân sự",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hành chính",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm kỷ luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm pháp lý hình sự",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "question_content": "Câu 388: Một người thợ sửa xe cố tình sửa phanh xe (thắng xe) nguy hiểm để khách hàng sớm quay lại tiệm sửa xe. Do phanh xe không an toàn nên xe lao xuống vực gây chết người. Trách nhiệm pháp lý áp dụng với thợ sửa xe là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "question_content": "Câu 389: Độ tuổi phải chịu trách nhiệm về mọi loại tội phạm là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 15 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 18 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 16 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 17 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "question_content": "Câu 390: Trách nhiệm pháp lý bao gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý hình sự và trách nhiệm kỷ luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "question_content": "Câu 391: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mọi biện pháp cưỡng chế của Nhà nước đều là trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý là biện pháp cưỡng chế của Nhà nước đối với chủ thể vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý là biện pháp cưỡng chế bất kỳ của Nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "question_content": "Câu 392: A là sinh viên đại học thực hiện hành vi uống rượu và chơi bài trong giảng đường, trách nhiệm pháp lý áp dụng với A là :",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "question_content": "Câu 393: A thực hiện hành vi trộm hàng hóa có giá trị 5.000.000 đồng trong siêu thị, trách nhiệm pháp lý áp dụng với A là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "question_content": "Câu 394: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước chỉ áp dụng các biện pháp cưỡng chế khi có vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước chỉ áp dụng các biện pháp cưỡng chế khi có hành vi trái pháp luật xảy ra.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước có thể áp dụng biện pháp cưỡng chế khi không có vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "question_content": "Câu 395: A là chủ thẩm mỹ viện, trong khi thực hiện phẫu thuật cho bệnh nhân B, đã không thử nghiệm thuốc trước khiến B tử vong do sốc thuốc, trách nhiệm pháp lý áp dụng cho A là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "question_content": "Câu 396: A là chủ nhà trẻ tư nhân, trong lúc chăm sóc bé B đã có hành vi đánh vào mặt, lưng và dọa vứt bé vào thùng phuy nước để ép bé ăn hết khẩu phần. Trách nhiệm pháp lý áp dụng cho A là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "question_content": "Câu 397: A tham ô tài sản Nhà nước, trách nhiệm pháp lý áp dụng cho A là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "question_content": "Câu 398: Đây là biện pháp trách nhiệm pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xử phạt vi phạm giao thông.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cưỡng chế tiêu hủy gia cầm mắc bệnh H1N1.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Buộc tháo dỡ công trình xây dựng trái phép.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "question_content": "Câu 399: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ sở thực tế của trách nhiệm pháp lý là vi phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ sở thực tế của trách nhiệm pháp lý là quyết định của cơ quan nhà nước có thẩm quyền.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cơ sở thực tế của trách nhiệm pháp lý là quyết định có hiệu lực của cơ quan nhà nước có thẩm quyền.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "question_content": "Câu 400: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ sở pháp lý của trách nhiệm pháp lý là vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ sở pháp lý của trách nhiệm pháp lý là quyết định có hiệu lực của cơ quan nhà nước có thẩm quyền",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cơ sở thực tế của trách nhiệm pháp lý là quyết định có hiệu lực của cơ quan nhà nước có thẩm quyền.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "question_content": "Câu 401: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý là chế tài của quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý là sự thực hiện chế tài của quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý là sự áp dụng chế tài bất kỳ của quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "question_content": "Câu 402: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý áp dụng đối với tất cả các chủ thể có hành vi trái pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý áp dụng đối với chủ thể có hành vi vi phạm pháp luật.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý chỉ áp dụng đối với chủ thể có lỗi khi thực hiện hành vi trái pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "question_content": "Câu 403: Chọn nhận định đúng;",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể thực hiện vi phạm pháp luật hình sự chỉ phải chịu trách nhiệm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể thực hiện vi phạm pháp luật hình sự có thể chịu trách nhiệm hình sự và dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều sai.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "question_content": "Câu 404: Độ tuổi chịu trách nhiệm hành chính về mọi hành vi vi phạm hành chính là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 14 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 15 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 16 tuổi.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 18 tuổi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "question_content": "Câu 405: Theo Bộ luật Hình sự 2016, hãy chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể của trách nhiệm hình sự có thể là pháp nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chủ thể của trách nhiệm hình sự có thể là cá nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể của trách nhiệm hình sự chỉ có thể là cá nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ thể của trách nhiệm hình sự có thể là cá nhân hoặc pháp nhân",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "question_content": "Câu 406: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mọi hành vi trái pháp luật đều bị truy cứu trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hành vi trái pháp luật có thể bị truy cứu trách nhiệm pháp lý hoặc không",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. A,B đều đúng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A,B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "question_content": "Câu 407: Cơ quan có thẩm quyền truy cứu trách nhiệm pháp lý là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cơ quan, tổ chức xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cơ quan, tổ chức được Nhà nước trao quyền",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tổ chức chính trị.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "question_content": "Câu 408: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm pháp lý là chế tài của quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý là hậu quả của hành vi trái pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm pháp lý là sự thực hiện chế tài của quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "question_content": "Câu 409: Độ tuổi tối thiểu có thể phải chịu trách nhiệm hành chính là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 13 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 14 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 16 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 18 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "question_content": "Câu 410: Theo quy định của Bộ luật hình sự, độ tuổi tối thiểu phải chịu trách nhiệm hình sự là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 13 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 14 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 16 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 18 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "question_content": "Câu 411: Cá nhân được miễn trách nhiệm pháp lý trong các trường hợp sau:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chích hút ma túy dẫn tới không có khả năng nhận thức và điều khiển hành vi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mắc bệnh dẫn tới không có khả năng nhận thức và điều khiển hành vi",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Say rượu dẫn tới không có khả năng nhận thức và điều khiển hành vi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "question_content": "Câu 412: Trách nhiệm pháp lý là biện pháp cưỡng chế đặc biệt của Nhà nước bởi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chủ thể của trách nhiệm pháp lý thực hiện hành vi vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm pháp lý nhằm trừng phạt chủ thể vi phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "question_content": "Câu 413: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một hành vi vi phạm chỉ phải gánh chịu một loại trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Một hành vi vi phạm pháp luật có thể phải gánh chịu nhiều loại trách nhiệm pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Một hành vi trái pháp luật có thể phải gánh chịu một loại trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Một hành vi trái pháp luật có thể phải gánh chịu nhiều loại trách nhiệm pháp lý.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "question_content": "Câu 414: Trách nhiệm pháp lý là.............do …....... áp dụng với chủ thể vi phạm pháp luật, theo đó chủ thể vi phạm pháp luật phải gánh chịu những biện pháp cưỡng chế được quy định ở..........của......",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hậu quả-tổ chức-bộ phận chế tài-quy định pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hậu quả-Nhà nước-bộ phận chế tài-quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Hậu quả bất lợi-Nhà nước-chế tài- quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Hậu quả- Nhà nước- chế tài- quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "question_content": "Câu 415: Trách nhiệm pháp lý nào chủ yếu mang tính bồi thường thiệt hại:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "question_content": "Câu 416: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cá nhân chịu trách nhiệm hình sự có thể chuyển trách nhiệm hình sự cho cá nhân, tổ chức khác.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cá nhân chịu trách nhiệm hình sự chỉ có thể chuyển trách nhiệm hình sự cho cá nhân khác.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cá nhân chịu trách nhiệm hình sự không được chuyển trách nhiệm hình sự cho cá nhân khác",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cá nhân chịu trách nhiệm hình sự chỉ có thể chuyển trách nhiệm hình sự cho tổ chức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "question_content": "Câu 417: Đây không phải biện pháp trách nhiệm pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Buộc người chồng phải cấp dưỡng cho con sau ly hôn",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trưng dụng tài sản cá nhân vì mục đích an ninh quốc gia.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Đình chỉ quyết định trái pháp luật của Chủ tịch UBND tỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B,C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "question_content": "Câu 418: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Các vi phạm đạo đức, vi phạm tập quán đều phải chịu trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ vi phạm pháp luật mới phải chịu trách nhiệm pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vi phạm pháp luật, vi phạm đạo đức và vi phạm tập quán đều phải chịu trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "question_content": "Câu 419: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm dân sự chỉ áp dụng với cá nhân thực hiện vi phạm pháp luật dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm dân sự chỉ áp dụng với tổ chức thực hiện vi phạm dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự áp dụng với cá nhân, tổ chức có vi phạm dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "question_content": "Câu 420: Ngân hàng khởi kiện công ty A vì không trả lãi suất tiền vay đúng thời hạn trong hợp đồng tín dụng. Xác định trách nhiệm pháp lý áp dụng đối với công ty A:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Trách nhiệm hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trách nhiệm hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trách nhiệm dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Trách nhiệm kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "question_content": "Câu 421: Đây không phải biện pháp trách nhiệm pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cưỡng chế di dời dân khỏi địa phương có rò rỉ chất phóng xạ",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Cảnh cáo.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tước giấy phép hành nghề.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Kỷ luật.",
+        "is_correct": false
+      }
+    ]
+  }
+]

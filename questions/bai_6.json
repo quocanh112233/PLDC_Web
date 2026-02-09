@@ -1,0 +1,756 @@
+[
+  {
+    "id": 422,
+    "question_content": "Câu 422: Quan hệ xử phạt vi phạm trong lĩnh vực an toàn giao thông chịu sự điều chỉnh của ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Luật hành chính",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Luật dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Luật lao động.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "question_content": "Câu 423: Phương pháp điều chỉnh của luật lao động là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bình đẳng - thỏa thuận",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Thỏa thuận - Mệnh lệnh .",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Thỏa thuận - Quyền uy.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Bình đẳng thỏa thuận – Mệnh lệnh quyền uy.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "question_content": "Câu 424: Đối tượng điều chỉnh của luật dân sự là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quan hệ vật chất và quan hệ tinh thần.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan hệ tài sản và quan hệ nhân thân",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quan hệ tinh thần.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B và C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "question_content": "Câu 425: Phương pháp điều chỉnh của ngành luật hình sự là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền uy.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thương lượng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Mệnh lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mệnh lệnh và quyền uy",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "question_content": "Câu 426: Quan hệ giữa tội phạm và Nhà nước là đối tượng điều chỉnh của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật hành chính.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "question_content": "Câu 427: Căn cứ để phân định các ngành luật ở Việt Nam là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đối tượng điều chỉnh là các nhóm quan hệ xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Phương pháp điều chỉnh thỏa thuận hay mệnh lệnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Các nhóm trách nhiệm pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Các loại quan hệ pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "question_content": "Câu 428: Quan hệ thừa kế tài sản giữa cha mẹ và con chịu sự điều chỉnh của ngành luật nào?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật tố tụng hình sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "question_content": "Câu 429: Quan hệ mua bán tài sản chịu sự điều chỉnh của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A,B,C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "question_content": "Câu 430: A thế chấp nhà vay tiền ngân hàng, quan hệ này chịu sự điều chỉnh của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật thương mại.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật tố tụng dân sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "question_content": "Câu 431: Phương pháp điều chỉnh và đối tượng điều chỉnh, theo quan điểm biện chứng thì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Phương pháp điều chỉnh quyết định đối tượng điều chỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Đối tượng điều chỉnh quyết định phương pháp điều chỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phương pháp điều chỉnh và đối tượng điều chỉnh độc lập nhau.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "question_content": "Câu 432:....................... là những nhóm quan hệ xã hội thuộc một lĩnh vực nhất định của đời sống xã hội được điều chỉnh bởi pháp luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đối tượng điều chỉnh",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Phương pháp điều chỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nghành luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "question_content": "Câu 433: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành luật là thành tố nhỏ nhất của hệ thống pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật là thành tố nhỏ nhất của hệ thống pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Chế định pháp luật là thành tố nhỏ nhất của hệ thống pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "question_content": "Câu 434:…............ gồm các …...........có đặc điểm chung giống nhau nhằm.................. một nhóm....................tương ứng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành luật – quy phạm – quy định – quan hệ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chế định pháp luật – quy phạm – điều chỉnh- quan hệ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật – quy tắc xử sự – điều chỉnh- quan hệ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chế định pháp luật – quy phạm pháp luật – điều chỉnh – quan hệ xã hội",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "question_content": "Câu 435: Chế định pháp luật về chế độ kinh tế, chế độ chính trị, cơ cấu tổ chức bộ máy nhà nước thuộc ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật hiến pháp",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật dân sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "question_content": "Câu 436: Xét về lý luận, tất cả các ngành luật đều được hình thành trên cơ sở những quy định, nguyên tắc của ngành luật nào?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật hiến pháp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật dân sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "question_content": "Câu 437: Chế định “ Quyền và nghĩa vụ cơ bản của công dân” thuộc đối tượng điều chỉnh của ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hôn nhân gia đình.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật hiến pháp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "question_content": "Câu 438: A khởi kiện B vì B lần lữa không trả tiền thuê nhà theo đúng thời hạn trong hợp đồng thuê nhà. Quan hệ này chịu sự điều chỉnh của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật Kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật Tố tụng hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật Tố tụng dân sự",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật Tố tụng hình sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "question_content": "Câu 439: Bà A khởi kiện quyết định số 113/QĐ-UBND của UBND thành phố B thu hồi 500m2 đất và nhà của A do nhà và đất nằm trong dự án quy hoạch khu đô thị mới. Quan hệ này chịu sự điều chỉnh của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật tố tụng dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật tố tụng hành chính",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật tố tụng hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "question_content": "Câu 440: Chế định “Khởi tố bị can và hỏi cung bị can” thuộc ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hình sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành luật tố tụng hình sự",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành luật tố tụng dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành luật tố tụng hành chính.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "question_content": "Câu 441: Đối tượng điều chỉnh của ngành luật lao động là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quan hệ về khen thưởng và kỷ luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan hệ xã hội giữa người lao động và người sử dụng lao động",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quan hệ giữa người lao động và tổ chức Công đoàn.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "question_content": "Câu 442: Chế định về bảo hiểm xã hội thuộc ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật hành chính.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật lao động",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật hình sự.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "question_content": "Câu 443: Phương pháp điều chỉnh nào trong đó các bên tham gia có địa vị không tương đương với nhau:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bình đẳng – thỏa thuận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền uy – phục tùng",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Bình đẳng-thỏa thuận và quyền uy-phục tùng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "question_content": "Câu 444: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một quan hệ xã hội chỉ được điều chỉnh bởi một ngành luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Một quan hệ xã hội có thể được điều chỉnh bởi nhiều ngành luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều sai",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "question_content": "Câu 445: Theo quy định của Bộ luật lao động 2012 thì độ tuổi của người lao động là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 15 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 16 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 17 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 18 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "question_content": "Câu 446: Đây không phải ngành luật thuộc hệ thống pháp luật CHXHCN Việt Nam:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành luật đất đai.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành luật quốc tế.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành luật đầu tư",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "question_content": "Câu 447: Phương pháp tự do, tự nguyện cam kết, thỏa thuận là phương pháp điều chỉnh của ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành luật hôn nhân gia đình.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành luật kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A, B đều đúng",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B đều sai.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "question_content": "Câu 448: Chế định về tuyển dụng và thôi việc thuộc đối tượng điều chỉnh của ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luật dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật lao động",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật hôn nhân gia đình.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Luật giáo dục.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "question_content": "Câu 449:................................. là cách thức mà ngành luật sử dụng để tác động lên cách thức xử sự của các chủ thể tham gia vào các quan hệ xã hội thuộc phạm vi điều chỉnh của ngành luật đó.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Phương pháp điều chỉnh",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Đối tượng điều chỉnh.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "question_content": "Câu 450: Chế định “Tội xâm phạm an ninh quốc gia” thuộc đối tượng điều chỉnh của ngành luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ngành Luât dân sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngành Luật lao động.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngành Luật hôn nhân gia đình.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngành Luật hình sự",
+        "is_correct": true
+      }
+    ]
+  }
+]

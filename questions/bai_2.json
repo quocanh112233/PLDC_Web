@@ -1,0 +1,1666 @@
+[
+  {
+    "id": 91,
+    "question_content": "Câu 91: Theo quan điểm chủ nghĩa Mác Lênin, trong xã hội cộng sản nguyên thủy, quy phạm điều chỉnh quan hệ xã hội giữa các thành viên là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm đạo đức",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm kỹ thuật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm văn hóa.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question_content": "Câu 92: Theo quan điểm chủ nghĩa Mác Lênin, trong xã hội cộng sản nguyên thủy, quy tắc xử sự là những:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tập quán và tín điều tôn giáo",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tập quán pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tiền lệ pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Văn bản quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question_content": "Câu 93: Theo quan điểm chủ nghĩa Mác Lênin, trong xã hội cộng sản nguyên thủy, các tín điều tôn giáo đã hình thành trong điều kiện:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xã hội phân chia thành giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xã hội xuất hiện hình thức sở hữu tư hữu đối với tư liệu sản xuất.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bất lực của con người trước sức mạnh tuyệt đối của thiên nhiên",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Con người khắc phục được những khắc nghiệt của thiên nhiên.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question_content": "Câu 94: Theo quan điểm chủ nghĩa Mác Lênin, các tín điều tôn giáo, các tập quán được hình thành đầu tiên trong:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xã hội phong kiến.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xã hội tư bản.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Xã hội cộng sản nguyên thủy",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Xã hội chủ nghĩa.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question_content": "Câu 95: Theo quan điểm chủ nghĩa Mác Lênin, các tín điều tôn giáo, các tập quán trong xã hội cộng sản nguyên thủy thể hiện ý chí của:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Giai cấp thống trị",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Toàn thể thị tộc, bộ lạc.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Giai cấp bị trị Câu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question_content": "96: Các tín điều tôn giáo, các tập quán trong xã hội cộng sản nguyên thủy được thực hiện:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một cách tự nguyện",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Một cách cưỡng chế",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không tự giác",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước bắt buộc thực hiện",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question_content": "Câu 97: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật chỉ có thể hình thành bằng con đường:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chính trị",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp lý",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cá nhân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question_content": "Câu 98: Theo quan điểm chủ nghĩa Mác Lênin “Pháp luật do nhà nước ban hành”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đúng, vì pháp luật không do nhà nước thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Sai, vì pháp luật không do nhà nước ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đúng, vì nhà nước là chủ thể ban hành pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Sai, vì nhà nước còn thừa nhận các quy phạm xã hội đang tồn tại. Câu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question_content": "99: Theo quan điểm chủ nghĩa Mác Lênin thì “Pháp luật chỉ có thể hình thành bằng con đường nhà nước”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đúng, vì xét về phương diện chủ quan, pháp luật chỉ có thể hình thành bằng con đường nhà nước theo hai cách: do nhà nước ban hành hoặc thừa nhận",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Sai, vì xét về phương diện chủ quan pháp luật chỉ có thể hình thành bằng con đường nhà nước theo hai cách: do nhà nước ban hành hoặc thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì xét về phương diện khách quan.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đúng, vì xét về phương diện chủ quan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question_content": "Câu 100: Theo quan điểm chủ nghĩa Mác Lênin, bản chất của pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vừa mang tính xã hội và tính dân tộc",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vừa mang tính nhà nước và tính giai cấp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Vừa mang tính nhà nước và tính xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Vừa mang tính giai cấp và tính xã hội",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question_content": "Câu 101: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật mang tính giai cấp, vì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật không mang tính dân chủ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật không mang tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật là công cụ quản lý xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật là công cụ cai trị giai cấp.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question_content": "Câu 102: Theo quan điểm chủ nghĩa Mác Lênin, mục đích điều chỉnh của pháp luật nhằm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Điều chỉnh các quan hệ xã hội phát triển theo một trật tự phù hợp với lợi ích của giai cấp thống trị",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Điều chỉnh các quan hệ xã hội phát triển theo một trật tự phù hợp với lợi ích của giai cấp bị trị.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Điều chỉnh trật tự xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Điều chỉnh quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question_content": "Câu 103: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật mang tính xã hội vì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật không phải là công cụ quản lý xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật là công cụ quản lý xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật được hình thành do ý chí của pháp nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật là công cụ cai trị giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question_content": "Câu 104: Chọn nhận định đúng theo quan điểm trong giáo trình:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật vừa mang tính giai cấp vừa mang tính xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật chỉ mang tính giai cấp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật chỉ mang tính xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật phi giai cấp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question_content": "Câu 105: Theo quan điểm chủ nghĩa Mác Lênin, chọn nhận định sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật do cá nhân ban hành",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật do nhà nước ban hành",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật được nhà nước đảm bảo giá trị thi hành",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật có tính quy phạm phổ biến",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question_content": "Câu 106: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật chỉ do ……… ban hành:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp nhân",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cá nhân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question_content": "Câu 107: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật được đảm bảo giá trị thi hành bằng biện pháp ……… của nhà nước",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cưỡng chế",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Kinh tế",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tư tưởng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question_content": "Câu 108: “Pháp luật chỉ mang tính giai cấp”. Theo quan điểm chủ nghĩa Mác Lênin, đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sai, vì xét về bản chất thì pháp luật vừa mang tính giai cấp vừa mang tính xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Đúng, vì xét về bản chất thì pháp luật vừa mang tính giai cấp vừa mang tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì pháp luật mang tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đúng, vì pháp luật mang tính giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question_content": "Câu 109: Theo quan điểm chủ nghĩa Mác Lênin thì “……….. là hệ thống các quy tắc xử sự do nhà nước ban hành và bảo đảm thực hiện, thể hiện ý chí của giai cấp thống trị trong xã hội, là nhân tố điều chỉnh các quan hệ xã hội”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Văn bản áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question_content": "Câu 110: Theo quan điểm chủ nghĩa Mác Lênin, “Pháp luật là hệ thống các quy tắc xử sự do …………ban hành và bảo đảm thực hiện, thể hiện ý chí của giai cấp ……………trong xã hội, là nhân tố điều chỉnh các quan hệ xã hội”",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước – thống trị",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước – bị thống trị.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp nhân – thống trị.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp nhân – bị thống trị.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question_content": "Câu 111:Theo quan điểm chủ nghĩa Mác Lênin, “Pháp luật là hệ thống các quy tắc xử sự do nhà nước ban hành và bảo đảm thực hiện, thể hiện ý chí của giai cấp thống trị trong xã hội, là nhân tố điều chỉnh các…………..”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan hệ xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm xã hội.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question_content": "Câu 112: Pháp luật có mối liên hệ qua lại với các hiện tượng xã hội nào sau đây:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Kinh tế, với chính trị, với nhà nước, với các quy phạm xã hội khác",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Cưỡng chế nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Các quan hệ pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question_content": "Câu 113: “………… là những quy tắc xử sự của con người, dùng để điều chỉnh mối quan hệ giữa con người với con người trong xã hội, là tiêu chuẩn để đánh giá hành vi xử sự của con người”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm đạo đức",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm xã hội",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm chính trị",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question_content": "Câu 114: “……..là những quy tắc xử sự của con người được hình thành từ các quan điểm, quan niệm của con người về điều thiện, điều ác, điều tốt, điều xấu trong xã hội”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm đạo đức",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm tập quán",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm tôn giáo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question_content": "Câu 115: “………….. là quy tắc xử sự chung của những người ở trong một địa phương hay một vùng nhất định. Nó được hình thành từ những thói quen, từ những phong tục của mỗi địa phương”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm tôn giáo",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm đạo đức",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm tập quán",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question_content": "Câu 116: “……….là quy tắc xử sự của những người theo một tôn giáo hoặc một tín ngưỡng nào đó và chỉ những người trong tôn giáo đó, trong tín ngưỡng đó phải tuân theo mà thôi”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm tôn giáo",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm đạo đức",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question_content": "Câu 117: “Chỉ có pháp luật mới có tính bắt buộc”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đúng, vì pháp luật do nhà nước ban hành.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Sai, vì pháp luật do nhà nước thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì có quy phạm tôn giáo cũng có tính bắt buộc",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Đúng, vì các quy phạm xã hội khác cũng có tính bắt buộc.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question_content": "Câu 118:Theo quan điểm chủ nghĩa Mác Lênin,“các quy phạm đạo đức, tôn giáo không mang tính giai cấp”. Đây là nhận định:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sai, vì trong xã hội có nhiều giai cấp khác nhau nên có nhiều quan điểm khác nhau về đạo đức, về tôn giáo và đó chính là tính giai cấp",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Đúng, vì trong xã hội có nhiều giai cấp khác nhau nên có nhiều quan điểm khác nhau về đạo đức, về tôn giáo.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sai, vì các quy phạm đạo đức, tôn giáo được nhà nước thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đúng, vì các quy phạm đạo đức, tôn giáo được nhà nước thừa nhận.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question_content": "Câu 119: Thuộc tính của pháp luật gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không mang tính quy phạm phổ biến.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không mang tính xác định chặt chẽ về hình thức.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính được đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính quy phạm phổ biến, tính xác định chặt chẽ về hình thức, tính được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question_content": "Câu 120: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính quy phạm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính bắt buộc chung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question_content": "121: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính xác định chặt chẽ về mặt hình thức",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Tính không bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính bắt buộc.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question_content": "Câu 122: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính được nhà nước đảm bảo giá trị thi hành",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Tính xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính giai cấp.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question_content": "Câu 123: Đây không phải là thuộc tính đặc trưng của pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính quy phạm phổ biến.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính được nhà nước đảm bảo giá trị thi hành.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính bắt buộc",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tính xác định chặt chẽ về mặt hình thức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question_content": "Câu 124: Tính quy phạm phổ biến của pháp luật được hiểu là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Khuôn mẫu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chuẩn mực.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ngôn ngữ phải chính xác, hiểu một nghĩa",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Khuôn mẫu, chuẩn mực cho hành vi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question_content": "Câu 125: Tính xác định chặt chẽ về mặt hình thức của pháp luật được hiểu là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là tiêu chuẩn để đánh giá hành vi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Ngôn ngữ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nội dung của pháp luật phải được thể hiện trong những hình thức xác định, sử dụng ngôn ngữ pháp lý rõ ràng, chính xác, một nghĩa, có khả năng áp dụng trực tiếp",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Được thể hiện trong những hình thức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question_content": "Câu 126: Tính quy phạm phổ biến của pháp luật xuất phát từ nguyên nhân:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật mang tính phi giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật không bắt buộc ban hành theo trình tự.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật thể hiện ý chí, quyền lực của nhân dân",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật không bắt buộc sử dụng ngôn ngữ pháp lý.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question_content": "Câu 127: Tính được nhà nước đảm bảo giá trị thi hành của pháp luật được hiểu là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Việc xây dựng và tổ chức thực hiện pháp luật là quyền hạn và trách nhiệm của nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Chuẩn mực cho hành vi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Để hạn chế sự lạm dụng quyền lực nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính minh bạch của pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question_content": "Câu 128: Khả năng tổ chức thực hiện pháp luật của nhà nước, bằng biện pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đảm bảo về xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Đảm bảo về văn hóa.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đảm bảo bằng biện pháp nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đảm bảo về kinh tế, về tư tưởng, bằng biện pháp cưỡng chế nhà nước",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question_content": "Câu 129: Trong tổ chức thực hiện pháp luật của nhà nước, biện pháp nào được xem là đặc trưng điển hình nhất:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Biện pháp kinh tế.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "Biện pháp tư tưởng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Biện pháp chính trị",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Biện pháp cưỡng chế nhà nước",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question_content": "130: Pháp luật được nhà nước đảm bảo giá trị thi hành, vì:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật là công cụ quản lý xã hội, là sự thể hiện ý chí và quyền lực của nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật là công cụ quản lý xã hội.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật là công cụ của giai cấp thống trị.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật có tính bắt buộc chung",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question_content": "Câu 131: Tính được nhà nước đảm bảo giá trị thi hành của pháp luật dẫn đến:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính minh bạch",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính phi giai cấp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính không chuẩn xác.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính tiên liệu.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question_content": "Câu 132:Theo quan điểm chủ nghĩa Mác Lênin, yếu tố nào quan trọng nhất trong việc bảo đảm cho pháp luật được thực hiện trên thực tế:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính tiên liệu.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính ổn định.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tính quyền lực nhà nước",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tính chuẩn mực.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question_content": "Câu 133:Theo quan điểm chủ nghĩa Mác Lênin, nhận định nào sau đây sai:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ có pháp luật mới được đảm bảo bằng biện pháp cưỡng chế nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ có pháp luật mới có tính quy phạm",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật có tính phổ biến.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chỉ có pháp luật mới có tính xác định chặt chẽ về mặt hình thức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question_content": "Câu 134:Theo quan điểm chủ nghĩa Mác Lênin, “….là những phương diện, mặt tác động chủ yếu của pháp luật, thể hiện bản chất và giá trị xã hội của pháp luật”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chức năng pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chức năng nhà nước.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question_content": "Câu 135:Theo quan điểm chủ nghĩa Mác Lênin, “……..là cách thức thể hiện ý chí và phương thức tồn tại, dạng tồn tại của pháp luật”.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hình thức nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hình thức pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Hình thức cấu trúc nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Hình thức chính thể.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question_content": "Câu 136:Theo quan điểm của các nhà luật học Việt Nam, pháp luật có mấy hình thức cơ bản:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Một.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Hai.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Ba",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Bốn.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question_content": "Câu 137:Theo quan điểm chủ nghĩa Mác Lênin “…….là hình thức nhà nước thừa nhận một số tập quán đã lưu truyền trong xã hội, phù hợp với lợi ích của giai cấp thống trị và nâng chúng lên thành pháp luật”. Đây là khái niệm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tiền lệ pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Văn bản quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tập quán pháp",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question_content": "Câu 138: Nội dung nào sau đây là ưu điểm của tập quán pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không có tính ổn định lâu bền.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có thể có giá trị thực hiện một cách tự nguyện",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không thích hợp cho tất cả các vùng miền.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Có tính ổn định lâu bền, có giá trị thực hiện một cách tự nguyện.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question_content": "139: Nội dung nào sau đây là ưu điểm của tập quán pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đa dạng theo từng khu vực, nhóm cư dân",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Mang tính cục bộ.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khó thay đổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "Dễ thay đổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question_content": "Câu 140: Nội dung nào sau đây là nhược điểm của tập quán pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không mang tính cục bộ.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Dễ hòa nhập cùng với sự thay đổi của pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Thực hiện một cách tự nguyện tự giác.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Mang tính cục bộ, khó hòa nhập cùng với sự thay đổi của pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question_content": "Câu 141: “ Nhà nước thừa nhận các quyết định của cơ quan hành chính hoặc xét xử đã có hiệu lực pháp luật và lấy đó làm căn cứ pháp lý để áp dụng cho các vụ việc cùng tính chất xảy ra sau này trong trường hợp pháp luật không quy định hoặc quy định không rõ”. Đây là khái niệm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tập quán pháp",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tiền lệ pháp",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Văn bản quy phạm pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quy phạm pháp luật",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question_content": "Câu 142: Nội dung nào sau đây là ưu điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính ổn định và liên tục",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Đa dạng theo từng khu vực.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có giá trị thực hiện tự nguyện.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "Dễ thay đổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question_content": "Câu 143: Nội dung nào sau đây là ưu điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính lâu bền.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Đáp ứng nhu cầu áp dụng pháp luật thực tế",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Có tính thống nhất cao.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Thể hiện ý chí của đa số nhân dân.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question_content": "Câu 144: Nội dung nào sau đây là ưu điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính định hướng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có tính thực tiễn cao.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Linh hoạt trong áp dụng pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Khó thay đổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question_content": "Câu 145: Nội dung nào sau đây là nhược điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không thích hợp cho tất cả các vùng miền.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không có thể hiện ý chí của đa số nhân dân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không có tính ổn định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tùy tiện trong áp dụng pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question_content": "Câu 146: Nội dung nào sau đây là nhược điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tính khái quát không cao",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Không có tính linh hoạt.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không có tính ổn định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không có tính liên tục.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question_content": "Câu 147: Nội dung nào sau đây không phải là nhược điểm của tiền lệ pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tùy tiện trong áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tính khái quát không cao.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không linh hoạt trong áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính trừu tượng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question_content": "Câu 148:Theo quan điểm chủ nghĩa Mác Lênin, “…………là văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục trình tự luật định, trong đó có quy tắc xử sự chung, được nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội để thực hiện các nhiệm vụ, chức năng của nhà nước”. Đây là khái niệm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quy phạm pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quy phạm xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Văn bản quy phạm pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Tiền lệ pháp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question_content": "Câu 149: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Linh hoạt trong áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có giá trị thực hiện một cách tự nguyện.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đa dạng theo từng nhóm dân cư.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Thể hiện ý chí của đa số nhân dân",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question_content": "Câu 150: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính thống nhất cao",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Có tính linh hoạt trong áp dụng pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có tính lâu bền.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tính trừu tượng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question_content": "Câu 151: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có tính lâu bền.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có tính định hướng",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "Có tính đa dạng theo từng khu vực.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Khó áp dụng trên thực tế.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question_content": "Câu 152: Hình thức pháp luật nào sau đây được thừa nhận là nguồn luật chính thức ở Việt Nam:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Tiền lệ pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tập quán pháp.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quy phạm pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Văn bản quy phạm pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question_content": "Câu 153: Ở Việt Nam, hệ thống pháp luật Việt Nam thuộc hệ thống:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật Anh Mỹ",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Pháp luật Châu Âu",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Pháp luật Xã hội chủ nghĩa",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Pháp luật Hồi Giáo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question_content": "Câu 154: Thực tế ở Việt Nam, nguồn luật tập quán pháp:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không được thừa nhận.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Không được sử dụng.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có thể được thừa nhận",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Được thừa nhận và sử dụng.",
+        "is_correct": false
+      }
+    ]
+  }
+]

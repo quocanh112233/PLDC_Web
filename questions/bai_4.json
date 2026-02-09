@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 242,
+    "question_content": "Câu 242: Quan hệ pháp luật là những quan hệ xã hội được điều chỉnh bởi các quy phạm pháp luật, trong đó các bên tham gia có các ……………… cụ thể.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền và nghĩa vụ pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nghĩa vụ pháp lý",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền công dân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question_content": "Câu 243. Quyền chủ thể là những cách thức xử sự mà pháp luật………chủ thể được tiến hành nhằm đáp ứng các lợi ích của mình.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cho phép",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "Bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cấm.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Yêu cầu.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question_content": "Câu 244: Nghĩa vụ chủ thể là những cách thức xử sự …….mà chủ thể phải tiến hành theo quy định của pháp luật nhằm đáp ứng quyền và lợi ích của chủ thể khác.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cho phép.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lựa chọn.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bắt buộc",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Không bắt buộc.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question_content": "Câu 245: Quan hệ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ là quan hệ giữa cá nhân với cá nhân.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ là quan hệ giữa cá nhân với nhà nước.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Là quan hệ xã hội do pháp luật điều chỉnh",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chỉ là quan hệ đạo đức",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question_content": "Câu 246: Chủ thể quan hệ pháp luật.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ là nhà nước",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ là cá nhân",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Là cá nhân hoặc tổ chức",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chỉ là tổ chức.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question_content": "Câu 247: Chọn khẳng định đúng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Năng lực pháp luật là khả năng thực hiện quyền và nghĩa vụ pháp lý",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Năng lực hành vi là khả năng hưởng quyền và nghĩa vụ pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Năng lực hành vi là khả năng thực hiện quyền và nghĩa vụ pháp lý.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Không có khẳng định đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question_content": "Câu 248: Chọn khẳng định đúng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nam 18 tuổi, nữ 20 tuổi được quyền đăng ký kết hôn",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nam 20 tuổi, nữ 18 tuổi được quyền đăng ký kết hôn",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Nam, nữ đủ 18 tuổi được quyền đăng ký kết hôn.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nam, nữ đủ 20 tuổi được quyền đăng ký kết hôn.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question_content": "Câu 249: Theo Bộ luật hình sự Việt Nam hiện hành, người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng do cố ý?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. 17 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. 16 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. 14 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. 15 tuổi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question_content": "Câu 250: Kết hôn là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền và nghĩa vụ của công dân",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền của công dân",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Nghĩa vụ của công dân.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Một hợp đồng dân sự",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "question_content": "Câu 251: Chọn khẳng định đúng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền chủ thể là nghĩa vụ pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quyền chủ thể là các xử sự bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyền chủ thể là khả năng lựa chọn những cách xử sự",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền chủ thể không do pháp luật quy định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question_content": "Câu 252: Chọn khẳng định đúng.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghĩa vụ pháp lý là khả năng lựa chọn những cách xử sự.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nghĩa vụ pháp lý là cách xử sự bắt buộc",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Nghĩa vụ pháp lý là quyền chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nghĩa vụ chủ thể không do pháp luật quy định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question_content": "Câu 253: Khách thể của quan hệ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ là những lợi ích vật chất",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ là những lợi ích tinh thần",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có thể là lợi ích vật chất hoặc tinh thần",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Chỉ là lợi ích vật chất, không có lợi ích tinh thần",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "question_content": "Câu 254: Đây không phải là đặc điểm của quyền chủ thể trong quan hệ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đáp ứng quyền của chủ thể khác trong quan hệ pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Lựa chọn xử sự theo pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Yêu cầu các chủ thể có liên quan thực hiện nghĩa vụ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Yêu cầu các cơ quan Nhà nước có thẩm quyền bảo vệ quyền, lợi ích của mình.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question_content": "Câu 255: Đây không phải là đặc điểm của nghĩa vụ chủ thể trong quan hệ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sự bắt buộc phải có những xử sự theo pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lựa chọn xử sự theo pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Đáp ứng quyền của chủ thể khác trong quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Có thể bị áp dụng biện pháp cưỡng chế Nhà nước khi không thực hiện nghĩa vụ chủ thể.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "question_content": "Câu 256: Sự kiện pháp lý là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Những hành vi bất hợp pháp",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Những hành vi hợp pháp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sự biến",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Tất cả.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question_content": "Câu 257: Quan hệ pháp luật ………………….điều chỉnh.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chỉ do các quy phạm đạo đức",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Chỉ do các quy phạm tôn giáo",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chỉ do các quy phạm tín ngưỡng",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "Do các quy phạm pháp luật",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question_content": "Câu 258: Quan hệ pháp luật gồm có các đặc điểm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là quan hệ có ý chí.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xuất hiện dựa trên cơ sở quy phạm pháp",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Luôn gắn liền với sự kiện pháp lý",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Gồm A, B và C luật.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question_content": "Câu 259: Thành phần của quan hệ pháp luật gồm có chủ thể, nội dung và..................",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Khách thể",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Vật thể",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khách quan",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Chủ quan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "question_content": "Câu 260: Chủ thể là cá nhân trong quan hệ pháp luật gồm có:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Công dân và người nước ngoài",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Công dân và người không quốc tịch",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Người nước ngoài và người không quốc tịch",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Công dân, người nước ngoài và người không quốc tịch",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "question_content": "Câu 261: Năng lực pháp luật của cá nhân xuất hiện từ lúc nào?",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Khi sinh ra",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Khi 15 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khi 16 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Khi 18 tuổi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question_content": "Câu 262: Quyền chủ thể trong quan hệ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghĩa vụ pháp lý.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cách xử sự bắt buộc.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khả năng lựa chọn những cách xử sự.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Không do pháp luật quy định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "question_content": "Câu 263: Nghĩa vụ của chủ thể trong quan hệ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền chủ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cách xử sự bắt buộc.",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Khả năng lựa chọn những cách xử sự.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không do pháp luật quy định.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "question_content": "Câu 264 : Sự kiện pháp lý là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Căn cứ chỉ làm phát sinh quan hệ pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Căn cứ chỉ làm chấm dứt quan hệ pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Căn cứ chỉ làm thay đổi quan hệ pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Căn cứ làm phát sinh, thay đổi, chấm dứt quan hệ pháp luật.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "question_content": "Câu 265: Năng lực hành vi xuất hiện ở cá nhân khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ khi sinh ra",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Trước khi sinh ra",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đạt đến độ tuổi nhất định",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đạt đến độ tuổi nhất định và có khả năng nhận thức",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "question_content": "Câu 266: Năng lực hành vi của pháp nhân xuất hiện:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Khi được cấp con dấu và mã số thuế",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cùng với năng lực pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Khi có quyết định thành lập pháp nhân",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "question_content": "Câu 267: Sự kiện pháp lý làm phát sinh quan hệ hôn nhân gia đình giữa vợ và chồng là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nam nữ chung sống với nhau",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nam nữ có con với nhau",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nam nữ tổ chức đám cưới",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Nam nữ được cấp giấy chứng nhận đăng ký kết hôn",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "question_content": "Câu 268: Thành phần của quan hệ pháp luật gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mặt khách quan và mặt chủ quan.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mặt chủ quan và chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể, khách thể và nội dung",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Khách thể, mặt khách quan và mặt chủ quan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question_content": "Câu 269: Năng lực pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thuộc tính tự nhiên",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Thuộc tính pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. A và B đều đúng",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A và B đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "question_content": "Câu 270:...................... là quan hệ xã hội được các quy phạm pháp luật điều chỉnh trong đó các bên tham gia đáp ứng được những điều kiện do Nhà nước quy định, có quyền chủ thể và nghĩa vụ pháp lý.",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Quan hệ pháp luật",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Quan hệ xã hội",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quan hệ pháp lý",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "question_content": "Câu 271: Sự biến pháp lý là những sự kiện thực tế:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Không phản ánh ý chí của con người.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Phản ánh ý chí của con người.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Được pháp luật quy định.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không phản ánh ý chí của con người và được pháp luật quy định",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question_content": "Câu 272: Cá nhân không có năng lực hành vi dân sự khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghiện ma túy",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nghiện rượu",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bị tâm thần",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ 0 đến 6 tuổi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "question_content": "Câu 273: Cá nhân mất năng lực hành vi dân sự khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nghiện rượu",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ 0 đến 6 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Tâm thần",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "question_content": "Câu 274: Theo Bộ Luật Lao động Việt Nam 2013, cá nhân có quyền tham gia ký hợp đồng lao động khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Từ đủ 14 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 15 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Từ đủ 16 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Từ đủ 18 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "question_content": "Câu 275: Cá nhân có năng lực hành vi dân sự chưa đầy đủ khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Dưới 18 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Từ đủ 18 tuổi trở lên.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Trên 18 tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Trên 21 tuổi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "question_content": "Câu 276: Điều kiện để làm phát sinh, thay đổi hay chấm dứt quan hệ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Khi có quy phạm pháp luật điều chỉnh quan hệ xã hội tương ứng.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Khi xảy ra sự kiện pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Khi xuất hiện chủ thể trong trường hợp cụ thể.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "question_content": "Câu 277: Ở các quốc gia khác nhau:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Năng lực pháp luật của tất cả chủ thể đều khác nhau.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Năng lực pháp luật của tất cả chủ thể đều giống nhau.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Năng lực pháp luật của chủ thể có thể giống nhau, có thể khác nhau.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B, C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "question_content": "Câu 278: Năng lực của chủ thể bao gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Năng lực hành vi và năng lực nhận thức.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Năng lực pháp luật và năng lực công dân.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Năng lực pháp luật và năng lực hành vi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Năng lực pháp luật và năng lực nhận thức .",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question_content": "Câu 279: Năng lực chủ thể bao gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Năng lực pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Năng lực hành vi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Năng lực pháp luật và năng lực hành vi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Năng lực pháp lý",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question_content": "Câu 280: Năng lực pháp luật của cá nhân:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thu hẹp dần theo độ tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Mở rộng dần theo độ tuổi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Không phụ thuộc độ tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "question_content": "Câu 281: Năng lực hành vi của cá nhân phụ thuộc:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Sức khỏe;",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Độ tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Quyết định của cơ quan Nhà nước có thẩm quyền",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A, B và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question_content": "Câu 282: Ở Việt Nam, tuổi đi nghĩa vụ quân sự của công dân nam từ:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Đủ 18 tuổi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Đủ 17 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Đủ 15 tuổi",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Đủ 16 tuổi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "question_content": "Câu 283: Sự kiện pháp lý làm chấm dứt quan hệ hôn nhân gia đình là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Vợ chồng ly thân",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Vợ chồng ly hôn",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Vợ chồng chia tài sản",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B, C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question_content": "Câu 284: Sự kiện pháp lý làm chấm dứt quan hệ vay tiền là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Người vay đã trả đủ tiền vay và lãi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Người vay đề nghị gia hạn thời hạn vay",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Người cho vay mất tích",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A, B và C đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "question_content": "Câu 285: Sự kiện pháp lý làm phát sinh quan hệ thừa kế là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Người để lại di sản chết",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Người để lại di sản viết di chúc",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. A và B đều sai",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. A và B đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question_content": "Câu 286: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Mọi cá nhân có năng lực pháp luật như nhau",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Cá nhân có năng lực pháp luật khác nhau, phụ thuộc độ tuổi của cá nhân đó",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. A và B đều sai",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. A và B đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "question_content": "Câu 287: Nội dung của quan hệ pháp luật bao gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Quyền chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nghĩa vụ pháp lý",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Chủ thể",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Quyền chủ thể và nghĩa vụ pháp lý",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "question_content": "Câu 288: A tặng cho B một căn nhà để làm nơi thờ cúng. Khách thể quan hệ pháp luật là:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Là ngôi nhà;",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Là A;",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Mong muốn tặng cho của A và mong muốn nhận tài sản của B",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Là B",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "question_content": "Câu 289: A bán cho B một chiếc xe máy. Khách thể của quan hệ pháp luật này gồm:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Chiếc xe máy.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tiền trả mua xe máy.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B đều sai",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "question_content": "Câu 290: A bán cho B một ngôi nhà. Đáp án nào không phải là quyền chủ thể của A trong quan hệ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Được nhận tiền bán ngôi nhà từ",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. ",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Yêu cầu cơ quan nhà nước bảo vệ quyền và lợi ích hợp pháp khi B không thực hiện nghĩa vụ.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Phải giao tiền cho B",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "question_content": "Câu 291: D bán cho C một chiếc điện thoại. Đáp án nào là nghĩa vụ pháp lý của C trong quan hệ pháp luật:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Được sở hữu chiếc điện thoại.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Được yêu cầu D về chất lượng sản phẩm.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phải thanh toán tiền mua điện thoại cho D",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Yêu cầu cơ quan nhà nước bảo vệ quyền và lợi ích hợp pháp khi D không thực hiện nghĩa vụ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "question_content": "Câu 292: Chủ thể sẽ không thể tự mình tham gia vào các quan hệ pháp luật nếu:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Có năng lực pháp luật nhưng bị hạn chế năng lực hành vi",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Không có năng lực pháp luật và có năng lực hành vi.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B đều sai.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Cả A và B đều đúng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "question_content": "Câu 293: Sự kiện pháp lý nào dưới đây không phải sự biến pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Bão",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Lũ",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Sóng thần",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Kết hôn",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "question_content": "Câu 294: Sự kiện pháp lý nào dưới đây không phải là hành vi pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Ly hôn",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Kết hôn",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Bán tài sản",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Động đất",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "question_content": "Câu 295: Sự kiện pháp lý nào dưới đây là sự biến pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cướp, giật tài sản",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Tặng, cho tài sản",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Núi lửa, động đất gây thiệt hại về tài sản.",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Thuê nhà",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "question_content": "Câu 296: Sự kiện pháp lý nào dưới đây là hành vi pháp lý:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thiên tai",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Xây dựng trái phép",
+        "is_correct": true
+      },
+      {
+        "key": "C",
+        "content": "C. Giông bão, sét đánh",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Sập cầu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "question_content": "Câu 297: A ký kết hợp đồng lao động với công ty",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Hành vi pháp lý",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Sau một năm làm việc, công ty B đơn phương cho A thôi việc. Sự kiện pháp lý làm chấm dứt quan hệ lao động trên là:",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Cả A và B đều đúng.",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Không có sự kiện pháp lý.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "question_content": "Câu 298: Tổ chức có tư cách pháp nhân khi có đầy đủ các điều kiện:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Được thành lập hợp pháp, có cơ cấu tổ chức chặt chẽ",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Có tài sản riêng và chịu trách nhiệm bằng chính tài sản đó",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "Có người đại diện hợp pháp theo pháp luật",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Gồm A, B và C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "question_content": "Câu 299: Năng lực pháp luật của tổ chức có tư cách pháp nhân có từ khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Thành lập",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Giải thể",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Phá sản",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngừng hoạt động",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "question_content": "Câu 300: Năng lực hành vi của tổ chức có tư cách pháp nhân có từ khi:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Cùng thời điểm với năng lực pháp luật của pháp nhân",
+        "is_correct": true
+      },
+      {
+        "key": "B",
+        "content": "B. Phá sản",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Giải thể",
+        "is_correct": false
+      },
+      {
+        "key": "D",
+        "content": "D. Ngừng hoạt động",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "question_content": "Câu 301: Chọn nhận định đúng:",
+    "answers": [
+      {
+        "key": "A",
+        "content": "A. Nhà nước là chủ thể của mọi quan hệ pháp luật.",
+        "is_correct": false
+      },
+      {
+        "key": "B",
+        "content": "B. Nhà nước chỉ là chủ thể của quan hệ pháp luật đối ngoại.",
+        "is_correct": false
+      },
+      {
+        "key": "C",
+        "content": "C. Nhà nước tham gia một số quan hệ pháp luật quan trọng",
+        "is_correct": true
+      },
+      {
+        "key": "D",
+        "content": "D. Nhà nước chỉ là chủ thể của quan hệ pháp luật sở hữu công.",
+        "is_correct": false
+      }
+    ]
+  }
+]
