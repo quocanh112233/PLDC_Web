@@ -27,10 +27,8 @@ export default function QuizClient({
   const [showExitModal, setShowExitModal] = useState(false);
   const [cheatWarning, setCheatWarning] = useState(false);
   
-  // Ref to prevent double init in Strict Mode
   const initialized = useRef(false);
 
-  // Time Tracking Logic + Anti-Cheat Timer
   useEffect(() => {
     let interval: NodeJS.Timeout;
     if (!loading && !isSubmitted && questions.length > 0) {
@@ -48,20 +46,17 @@ export default function QuizClient({
     return () => clearInterval(interval);
   }, [loading, isSubmitted, currentQuestionIndex, mode, questions, tickTimer, trackTimeSpent]);
 
-  // ANIT-CHEAT LOGIC ---------------------------------------------------------
   useEffect(() => {
     const handleContextMenu = (e: MouseEvent) => {
-        e.preventDefault(); // Stop Right Click
+        e.preventDefault(); 
     };
     
-    // Prevent Copy/Paste/Select
     const handleCopy = (e: ClipboardEvent) => {
         e.preventDefault();
         alert("Thí sinh không được phép sao chép nội dung!");
     };
 
     const handleKeydown = (e: KeyboardEvent) => {
-        // Blocks F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
         if (
             e.keyCode === 123 || 
             (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) ||
@@ -89,9 +84,7 @@ export default function QuizClient({
         document.removeEventListener('visibilitychange', handleVisibilityChange);
     };
   }, [isSubmitted]);
-  // -------------------------------------------------------------------------
 
-  // Data Fetching Logic + RESET QUIZ ON MOUNT
   useEffect(() => {
     if (initialized.current) return;
     initialized.current = true;
@@ -180,7 +173,6 @@ export default function QuizClient({
   return (
     <div className="flex flex-col h-screen bg-slate-50 text-slate-800 font-sans relative select-none">
       
-      {/* HEADER */}
       <div className="h-16 bg-white border-b border-gray-200 flex items-center justify-between px-6 shadow-sm z-10 transition-colors">
         <div className="font-bold text-lg text-blue-800 uppercase tracking-wide">
           {mode === 'CHAPTER' ? `Luyện tập: Chương ${chapterId}` : 'THI THỬ TỔNG HỢP'}
@@ -200,10 +192,8 @@ export default function QuizClient({
         </button>
       </div>
 
-      {/* MAIN CONTENT: 2 PANES */}
       <div className="flex-1 flex overflow-hidden">
         
-        {/* LEFT: QUESTION */}
         <div className="flex-1 flex flex-col p-8 overflow-y-auto w-2/3 border-r border-gray-200 bg-white" onContextMenu={(e) => e.preventDefault()}>
           <div className="mb-6">
             <span className="inline-block bg-blue-100 text-blue-800 font-bold px-3 py-1 rounded text-xs uppercase mb-4 tracking-wider">
@@ -245,7 +235,6 @@ export default function QuizClient({
             })}
           </div>
 
-          {/* NAV BUTTONS */}
           <div className="mt-auto pt-8 flex justify-between">
             <button
                onClick={prevQuestion}
@@ -273,7 +262,6 @@ export default function QuizClient({
           </div>
         </div>
 
-        {/* RIGHT: QUESTION GRID */}
         <div className="w-1/3 min-w-[300px] max-w-sm bg-gray-50 flex flex-col border-l border-gray-200" onContextMenu={(e) => e.preventDefault()}>
            <div className="p-4 bg-white border-b border-gray-200 font-bold text-center text-gray-500 uppercase text-xs tracking-wider">
                Danh sách câu hỏi
@@ -320,7 +308,6 @@ export default function QuizClient({
         </div>
       </div>
 
-      {/* CONFIRM SUBMIT MODAL */}
       {showConfirmModal && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn">
           <div className="bg-white p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
@@ -347,7 +334,6 @@ export default function QuizClient({
         </div>
       )}
 
-      {/* EXIT MODAL */}
       {showExitModal && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 animate-fadeIn">
           <div className="bg-white p-8 rounded-xl shadow-2xl max-w-md w-full text-center scale-100 animate-scaleUp">
@@ -374,7 +360,6 @@ export default function QuizClient({
         </div>
       )}
       
-      {/* CHEAT WARNING MODAL */}
       {cheatWarning && (
           <div className="fixed inset-0 bg-red-900/80 flex items-center justify-center z-[60] animate-pulse">
               <div className="bg-white p-8 rounded-xl shadow-2xl max-w-lg w-full text-center border-4 border-red-600">

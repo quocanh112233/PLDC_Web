@@ -7,21 +7,17 @@ import { Question } from '@/store/useQuizStore';
 export default function MaterialClient({ initialQuestions }: { initialQuestions: Question[] }) {
   const router = useRouter();
   
-  // Search State
   const [searchTerm, setSearchTerm] = useState('');
   const [filterChapter, setFilterChapter] = useState<number | 'ALL'>('ALL');
   
-  // Navigation State
   const [matches, setMatches] = useState<number[]>([]); 
   const [currentMatchIndex, setCurrentMatchIndex] = useState(-1);
 
-  // Filter Questions Logic
   const visibleQuestions = useMemo(() => {
     if (filterChapter === 'ALL') return initialQuestions;
     return initialQuestions.filter((q: any) => q.chapterId === filterChapter);
   }, [initialQuestions, filterChapter]);
 
-  // Search Logic
   useEffect(() => {
     if (!searchTerm.trim()) {
       setMatches([]);
@@ -93,7 +89,6 @@ export default function MaterialClient({ initialQuestions }: { initialQuestions:
 
   return (
     <div className="flex flex-col h-screen bg-slate-50 text-slate-800 font-sans">
-      {/* HEADER */}
       <div className="bg-white border-b py-4 px-6 md:px-8 flex flex-col md:flex-row gap-4 justify-between items-center shadow-md z-20 sticky top-0 print:hidden transition-all">
         <h1 className="text-xl font-bold text-blue-800 flex items-center gap-4 uppercase tracking-wide">
             <button onClick={() => router.push('/')} className="hover:bg-blue-50 hover:shadow active:scale-95 px-4 py-1.5 rounded border border-blue-200 text-blue-600 text-sm font-bold uppercase transition-all">
@@ -112,7 +107,6 @@ export default function MaterialClient({ initialQuestions }: { initialQuestions:
                 {[1,2,3,4,5,6].map(n => <option key={n} value={n}>Chương {n}</option>)}
             </select>
             
-            {/* SEARCH BAR & NAVIGATION */}
             <div className={`relative flex items-center bg-white border rounded transition-all w-full md:w-96 ${searchTerm ? 'ring-2 ring-orange-200 border-orange-300 shadow-md' : 'border-gray-300'}`}>
                 <input 
                     type="text" 
@@ -146,7 +140,6 @@ export default function MaterialClient({ initialQuestions }: { initialQuestions:
         </div>
       </div>
 
-      {/* CONTENT */}
       <div className="flex-1 overflow-y-auto p-4 md:p-8 print:p-0 print:overflow-visible scroll-smooth">
         <div className="max-w-4xl mx-auto bg-white shadow-sm border border-gray-200 rounded-xl p-8 min-h-full print:border-none print:shadow-none transition-colors">
             <div className="mb-8 text-center border-b pb-4 print:visible">

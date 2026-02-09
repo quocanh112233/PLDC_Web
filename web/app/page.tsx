@@ -27,7 +27,6 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-white text-slate-800 p-8 flex flex-col items-center font-sans">
-      {/* HEADER */}
       <div className="w-full max-w-5xl flex justify-between items-center mb-12 border-b-2 border-blue-100 pb-4">
         <h1 className="text-3xl font-bold text-blue-700 tracking-wide select-none">
           QUIZ PHÁP LUẬT ĐẠI CƯƠNG
@@ -40,7 +39,6 @@ export default function Home() {
         </button>
       </div>
 
-      {/* SECTION 1: LUYỆN THEO CHƯƠNG */}
       <section className="w-full max-w-4xl mb-16 text-center">
         <h2 className="text-xl font-bold text-slate-500 mb-8 uppercase tracking-widest select-none">
           Luyện tập theo chương
@@ -65,7 +63,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SECTION 2: THI THỬ */}
       <section className="w-full max-w-2xl text-center">
         <h2 className="text-xl font-bold text-slate-500 mb-8 uppercase tracking-widest select-none">
           Thi thử tổng hợp
@@ -89,7 +86,6 @@ export default function Home() {
         </button>
       </section>
 
-      {/* FOOTER */}
       <footer className="mt-auto pt-16 pb-8 text-slate-400 text-sm text-center select-none">
         <p className="mb-2">
             Dự án được phát triển bởi <span className="font-bold text-slate-600">Trần Nguyễn Quốc Anh</span>.

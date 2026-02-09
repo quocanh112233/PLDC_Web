@@ -10,7 +10,6 @@ export default function ResultPage() {
   const [stats, setStats] = useState({ correct: 0, wrong: 0, totalTime: 0 });
 
   useEffect(() => {
-    // Neu vao trang nay ma chua nop bai -> ve home
     if (!isSubmitted) {
       router.push('/');
       return;
@@ -39,7 +38,6 @@ export default function ResultPage() {
   };
 
   const handleRestart = () => {
-    // KHONG can resetQuiz o day, vi QuizClient se tu dong goi resetQuiz khi mount
     if (mode === 'CHAPTER' && chapterId) {
         router.push(`/quiz/chapter/${chapterId}`);
     } else {
@@ -51,7 +49,6 @@ export default function ResultPage() {
 
   return (
     <div className="flex flex-col h-screen bg-white font-sans text-slate-800">
-      {/* HEADER */}
       <div className="bg-white border-b p-4 flex justify-between items-center shadow-sm z-10">
         <h1 className="text-xl font-bold text-blue-800 uppercase">Kết quả bài làm</h1>
         <div className="flex gap-4">
@@ -71,7 +68,6 @@ export default function ResultPage() {
       </div>
 
       <div className="flex-1 flex overflow-hidden">
-        {/* LEFT: REVIEW LIST */}
         <div className="flex-1 overflow-y-auto p-8 border-r bg-gray-50">
           <div className="max-w-3xl mx-auto space-y-8">
             {questions.map((q, idx) => {
@@ -125,7 +121,6 @@ export default function ResultPage() {
           </div>
         </div>
 
-        {/* RIGHT: STATS & CHART */}
         <div className="w-1/3 min-w-[350px] bg-white p-8 overflow-y-auto">
            <h2 className="text-xl font-bold text-gray-700 mb-6 uppercase tracking-wider border-b pb-2">Thống Kê Chi Tiết</h2>
            
@@ -154,7 +149,7 @@ export default function ResultPage() {
                {questions.map((q, idx) => {
                    const t = timeSpent[q.id] || 0;
                    const isCorrect = userAnswers[q.id] === q.answers.find(a => a.is_correct)?.key;
-                   const width = Math.min(100, (t / 60) * 100); // 100% = 60s cap
+                   const width = Math.min(100, (t / 60) * 100); 
 
                    return (
                        <div key={q.id} className="flex items-center gap-2 group hover:bg-gray-50 p-1 rounded">
